@@ -29,6 +29,10 @@
   "author": "Bioseek",
   "license": "Apache-2.0",
   "dependencies": {
+    "@types/json2csv": "^4.5.1",
+    "csv-parse": "^4.8.2",
+    "json2csv": "^4.5.4",
+    "ts-node": "^8.5.4",
     "tslib": "~1.10.0",
     "xml-flow": "^1.0.4"
   }
