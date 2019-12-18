@@ -2,7 +2,15 @@ import parser from "csv-parse"
 import fs from "fs"
 import path from "path"
 
-import matchToMesh from "./match_to_mesh"
+import matchEntryToMeSH from "./match_entry_to_mesh"
+
+
+/*
+    Takes input folder which is supposed to contain CSV files with proper headers
+    Read all the files and match each entry to the MeSH structure.
+    Generates 2 files one with all matched entries plus related terms, the second one is with the missmatched entries.
+*/
+
 
 const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
     const parserOptions = {
@@ -11,6 +19,7 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
         trim: true,
     }
 
+    // the prop should be passed/ the data should be handled if no property is passed
     const propToRead = "name"
     const files = fs.readdirSync(dataFolderPath)
 
@@ -21,6 +30,7 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
         const matched = []
         const missMatched = []
         let matchedCount = 0
+        const matchedMap = {}
 
         csvParse.on("readable", () => {
             let chunk = csvParse.read()
@@ -28,19 +38,25 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
             while (chunk !== null) {
 
                 if (chunk.hasOwnProperty(propToRead)) {
-
-                    const entry = matchToMesh(chunk[ propToRead ])
+                    const entry = matchEntryToMeSH(chunk[ propToRead ])
 
                     if (entry.matched) {
-                        matched.push(...entry.value)
+                        entry.value.forEach((entryValue) => {
+                            if (!matchedMap.hasOwnProperty(entryValue)) {
+                                matchedMap[ entryValue ] = 1
+                                matched.push(entryValue)
+                            }
+                        })
                         matchedCount++
                     } else {
-                        missMatched.push(entry.value)
+                        if (!matchedMap.hasOwnProperty(entry.value[ 0 ])) {
+                            missMatched.push(...entry.value)
+                        }
                     }
 
                     chunk = csvParse.read()
                 } else {
-                    throw new Error(`The header ${propToRead} is not defined in ${file}`)
+                    throw new Error(`The header "${propToRead}" is not defined in ${file}`)
                 }
 
             }
