@@ -29,8 +29,8 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
         const csvParse = parser(fileData, parserOptions)
         const matched = []
         const missMatched = []
-        let matchedCount = 0
         const matchedMap = {}
+        let matchedCount = 0
 
         csvParse.on("readable", () => {
             let chunk = csvParse.read()
@@ -43,6 +43,11 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
                     if (entry.matched) {
                         entry.value.forEach((entryValue) => {
                             if (!matchedMap.hasOwnProperty(entryValue)) {
+                                // checking odd entries
+                                if (entryValue === "pinus") {
+                                    console.log(chunk[ propToRead ])
+                                }
+
                                 matchedMap[ entryValue ] = 1
                                 matched.push(entryValue)
                             }

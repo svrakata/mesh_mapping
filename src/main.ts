@@ -9,8 +9,6 @@ const outputFolderName = "mesh_matched_results/filtered"
 const dataFolderPath = path.resolve(__dirname, dataFolderName)
 const outputFolderPath = path.resolve(__dirname, outputFolderName)
 
-
-
 // generateMaps()
 matchCSVToMeSH(dataFolderPath, outputFolderPath)
 

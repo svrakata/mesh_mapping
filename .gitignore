@@ -41,9 +41,9 @@ build/Release
 node_modules/
 jspm_packages/
 src/temp/
-src/mesh_matched_results/
-src/kegg_data/
-src/mesh_maps/
+# src/mesh_matched_results/
+# src/kegg_data/
+# src/mesh_maps/
 
 # TypeScript v1 declaration files
 typings/
