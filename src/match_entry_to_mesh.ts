@@ -1,13 +1,19 @@
 import fs from "fs"
 import path from "path"
 
-import { sanitizeString } from "./utilities"
 import findTreeBranchValue from "./utilities/find_tree_branch_value"
 import getNestedObjectValues from "./utilities/get_nested_object_values"
+import sanitizeString from "./utilities/sanitize_string"
+
+interface IEntryValue {
+    id?: string
+    name: string
+    terms?: string[]
+}
 
 interface IEntry {
     matched: boolean
-    value: string[]
+    value: IEntryValue[]
 }
 
 const meshNamesMapFilePath = path.resolve(__dirname, "mesh_maps", "mesh_names_map.json")
@@ -46,9 +52,10 @@ const matchEntryToMeSH = (entryName: string): IEntry => {
 
                     if (meshDescUIMap.hasOwnProperty(sanitizedEntryUI)) {
 
+                        const name = meshDescUIMap[ sanitizedEntryUI ].name
                         const terms = meshDescUIMap[ sanitizedEntryUI ].terms
-                        matchedEntries.push(...terms)
 
+                        matchedEntries.push({ name, terms, id: sanitizedEntryUI })
                     }
                 })
             })
@@ -62,7 +69,7 @@ const matchEntryToMeSH = (entryName: string): IEntry => {
     } else {
         return {
             matched: false,
-            value: [ sanitizedEntryName ],
+            value: [ { name: sanitizedEntryName } ],
         }
     }
 }

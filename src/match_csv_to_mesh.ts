@@ -19,8 +19,8 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
         trim: true,
     }
 
-    // the prop should be passed/ the data should be handled if no property is passed
-    const propToRead = "name"
+    // the prop should be passed as option the data should be handled if no property is passed
+    const csvHeader = "name"
     const files = fs.readdirSync(dataFolderPath)
 
     files.forEach((file) => {
@@ -37,31 +37,27 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
 
             while (chunk !== null) {
 
-                if (chunk.hasOwnProperty(propToRead)) {
-                    const entry = matchEntryToMeSH(chunk[ propToRead ])
+                if (chunk.hasOwnProperty(csvHeader)) {
+                    const entry = matchEntryToMeSH(chunk[ csvHeader ])
 
                     if (entry.matched) {
                         entry.value.forEach((entryValue) => {
-                            if (!matchedMap.hasOwnProperty(entryValue)) {
-                                // checking odd entries
-                                if (entryValue === "pinus") {
-                                    console.log(chunk[ propToRead ])
-                                }
+                            if (!matchedMap.hasOwnProperty(entryValue.name)) {
 
-                                matchedMap[ entryValue ] = 1
+                                matchedMap[ entryValue.name ] = 1
                                 matched.push(entryValue)
                             }
                         })
                         matchedCount++
                     } else {
-                        if (!matchedMap.hasOwnProperty(entry.value[ 0 ])) {
+                        if (!matchedMap.hasOwnProperty(entry.value[ 0 ].name)) {
                             missMatched.push(...entry.value)
                         }
                     }
 
                     chunk = csvParse.read()
                 } else {
-                    throw new Error(`The header "${propToRead}" is not defined in ${file}`)
+                    throw new Error(`The header "${csvHeader}" is not defined in ${file}`)
                 }
 
             }
@@ -80,15 +76,19 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
             const matchedWriteStream = fs.createWriteStream(matchedOutputFilePath)
             const missMatchedWriteStream = fs.createWriteStream(missMatchedOutputFilePath)
 
-            matchedWriteStream.write(`"${propToRead}"\n`)
-            missMatchedWriteStream.write(`"${propToRead}"\n`)
+            const outputCSVHeader = `"id","name","terms"`
+
+            matchedWriteStream.write(`${outputCSVHeader}\n`)
+            missMatchedWriteStream.write(`"name"\n`)
 
             matched.forEach((entry) => {
-                matchedWriteStream.write(`"${entry}"\n`)
+                const { id, name, terms } = entry
+                matchedWriteStream.write(`"${id}","${name}","${terms.join(";")}"\n`)
             })
 
             missMatched.forEach((entry) => {
-                missMatchedWriteStream.write(`"${entry}"\n`)
+                const { name } = entry
+                missMatchedWriteStream.write(`"${name}"\n`)
             })
 
         })

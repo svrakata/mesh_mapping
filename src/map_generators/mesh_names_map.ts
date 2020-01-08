@@ -1,10 +1,9 @@
 import fs from "fs"
 import xmlReadStream from "xml-flow"
-import { sanitizeString } from "../utilities"
+import sanitizeString from "../utilities/sanitize_string"
 
 const generateMeSHNameMap = (meshXMLFilePath: string, mapJSONFilePath: string) => {
     const meshReadStream = fs.createReadStream(meshXMLFilePath)
-    const hashWriteStream = fs.createWriteStream(mapJSONFilePath)
 
     const xmlReadStreamOptions = {
         trim: true,
