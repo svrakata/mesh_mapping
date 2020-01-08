@@ -4,12 +4,6 @@
 import fs from "fs"
 import xmlReadStream from "xml-flow"
 
-interface IQualifier {
-    id: string
-    qualifier: string
-    terms: string[]
-}
-
 type TExtractQualifiers = (meshQualifiersXMLPath: string, outputFolderPath: string) => void
 
 const extractQualifiers: TExtractQualifiers = (meshQualifiersXmlFilePath: string, outputFolderPath: string) => {
