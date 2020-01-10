@@ -23,6 +23,7 @@ const extractQualifiers: TExtractQualifiers = (meshQualifiersXmlFilePath: string
         const id = qualifier.qualifierui
         let { conceptlist, qualifiername } = qualifier
         const terms = []
+        let splitedNames = []
 
         if (!Array.isArray(conceptlist)) {
             conceptlist = [ conceptlist ]
@@ -38,8 +39,26 @@ const extractQualifiers: TExtractQualifiers = (meshQualifiersXmlFilePath: string
             })
         })
 
-        const qualifierEntry = `"${id}","${qualifiername}","${terms.join(";")}"\n`
-        qualifiersWriteStream.write(qualifierEntry)
+        if (qualifiername.includes("&")) {
+            splitedNames = qualifiername
+                .split("&")
+                .map((name) => name.trim())
+            const qName = splitedNames.join(" and ")
+            const qualifierEntry = `"${id}","${qName}"\n`
+            qualifiersWriteStream.write(qualifierEntry)
+            splitedNames.forEach((name) => {
+                qualifiersWriteStream.write(`"","","${name}"\n`)
+            })
+        } else {
+            const qualifierEntry = `"${id}","${qualifiername}"\n`
+            qualifiersWriteStream.write(qualifierEntry)
+        }
+
+        terms.forEach((term) => {
+            if (!splitedNames.includes(term)) {
+                qualifiersWriteStream.write(`"","","${term}"\n`)
+            }
+        })
     })
 }
 
