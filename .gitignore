@@ -106,3 +106,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# data
+# /kegg_data
+# /diseases
+# /mesh_matched_results
+# /qualifiers

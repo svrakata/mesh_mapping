@@ -21,9 +21,10 @@ const extractQualifiers: TExtractQualifiers = (meshQualifiersXmlFilePath: string
 
     xmlStream.on("tag:qualifierrecord", (qualifier) => {
         const id = qualifier.qualifierui
-        let { conceptlist, qualifiername } = qualifier
         const terms = []
+        let { conceptlist, qualifiername } = qualifier
         let splitedNames = []
+        let qualifierEntry = ""
 
         if (!Array.isArray(conceptlist)) {
             conceptlist = [ conceptlist ]
@@ -44,21 +45,25 @@ const extractQualifiers: TExtractQualifiers = (meshQualifiersXmlFilePath: string
                 .split("&")
                 .map((name) => name.trim())
             const qName = splitedNames.join(" and ")
-            const qualifierEntry = `"${id}","${qName}"\n`
-            qualifiersWriteStream.write(qualifierEntry)
+            qualifierEntry = `"${id}","${qName}"`
+            // qualifiersWriteStream.write(qualifierEntry)
             splitedNames.forEach((name) => {
-                qualifiersWriteStream.write(`"","","${name}"\n`)
+                if (!terms.includes(name)) {
+                    terms.push(name)
+                }
+                // qualifiersWriteStream.write(`"","","${name}"\n`)
             })
         } else {
-            const qualifierEntry = `"${id}","${qualifiername}"\n`
-            qualifiersWriteStream.write(qualifierEntry)
+            qualifierEntry = `"${id}","${qualifiername}"`
+            // qualifiersWriteStream.write(qualifierEntry)
         }
 
-        terms.forEach((term) => {
-            if (!splitedNames.includes(term)) {
-                qualifiersWriteStream.write(`"","","${term}"\n`)
-            }
-        })
+        // terms.forEach((term) => {
+        //     if (!splitedNames.includes(term)) {
+        //         qualifiersWriteStream.write(`"","","${term}"\n`)
+        //     }
+        // })
+        qualifiersWriteStream.write(`${qualifierEntry},"${terms.join(";")}"\n`)
     })
 }
 

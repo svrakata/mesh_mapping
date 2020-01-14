@@ -10,6 +10,9 @@ import getDiseases from "./get_diseases"
 import matchCSVToMeSH from "./match_csv_to_mesh"
 import mergeAndCompareTwoCSVFiles from "./utilities/merge_and_compare_two_csv_files"
 
+
+import mergeFilteredNonFiltered from "./merge_filtered_not_filtered"
+
 const paths = [
     {
         input: path.resolve(__dirname, "kegg_data/not_filtered"),
@@ -30,11 +33,19 @@ const notFilteredHerbs = path.resolve(__dirname, "mesh_matched_results/not_filte
 const filteredHerbs = path.resolve(__dirname, "mesh_matched_results/filtered", "medicinal_herbs_matched.csv")
 const outputFilePath = path.resolve(__dirname, "mesh_matched_results/combined", "medicinal_herbs.csv")
 
+
+
 // mergeAndCompareTwoCSVFiles(notFilteredHerbs, filteredHerbs, outputFilePath)
 
 // const qualifiersXMLFilePath = path.resolve(__dirname, "temp", "qual2020.xml")
 // const outputFolderPath = path.resolve(__dirname, "qualifiers")
 // extractQualifiers(qualifiersXMLFilePath, outputFolderPath)
 
-const diseasesFilePath = path.resolve(__dirname, "diseases", "diseases.csv")
-getDiseases(diseasesFilePath)
+// const diseasesFilePath = path.resolve(__dirname, "diseases", "diseases.csv")
+// getDiseases(diseasesFilePath)
+
+const filteredFolderPath = path.resolve(__dirname, "mesh_matched_results", "filtered")
+const nonFilteredFolderPath = path.resolve(__dirname, "mesh_matched_results", "not_filtered")
+const mergedFolderPath = path.resolve(__dirname, "mesh_matched_results", "combined")
+
+mergeFilteredNonFiltered(filteredFolderPath, nonFilteredFolderPath, mergedFolderPath)

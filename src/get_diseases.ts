@@ -12,7 +12,6 @@ const getDiseases = (outputFilePath: string) => {
     const headers = `"id","name"\n`
     const idMap = {}
 
-
     writeStream.write(headers)
 
     diseaseBranches.forEach((branchID) => {
