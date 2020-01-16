@@ -43,8 +43,10 @@ const matchEntryToMeSH = (entryName: string): IEntry => {
             treeList.forEach((branch) => {
                 const splitedBranch = branch.split(".")
                 // sets the branch path one branch up towards the root
+                // should be option
+                // its disabled
                 const branchPath = splitedBranch.slice(0, splitedBranch.length - 1)
-                const branchValue = findTreeBranchValue(branchPath, meshTreeMap)
+                const branchValue = findTreeBranchValue(splitedBranch, meshTreeMap)
                 const relatedEntries = getNestedObjectValues(branchValue) // returns list with descriptor UIs
 
                 relatedEntries.forEach((entryUI) => {
@@ -53,8 +55,13 @@ const matchEntryToMeSH = (entryName: string): IEntry => {
                     if (meshDescUIMap.hasOwnProperty(sanitizedEntryUI)) {
 
                         const name = meshDescUIMap[ sanitizedEntryUI ].name
-                        const terms = meshDescUIMap[ sanitizedEntryUI ].terms
 
+                        // checks the entry name at particular match
+                        // if (name === "embryophyta") {
+                        //     console.log(entryName)
+                        // }
+
+                        const terms = meshDescUIMap[ sanitizedEntryUI ].terms
                         matchedEntries.push({ name, terms, id: sanitizedEntryUI })
                     }
                 })

@@ -15,25 +15,23 @@ import mergeFilteredNonFiltered from "./merge_filtered_not_filtered"
 
 const paths = [
     {
-        input: path.resolve(__dirname, "kegg_data/not_filtered"),
-        output: path.resolve(__dirname, "mesh_matched_results/not_filtered"),
+        input: path.resolve(__dirname, "kegg_data/not_filtered/same_branch"),
+        output: path.resolve(__dirname, "mesh_matched_results/not_filtered/same_branch"),
     },
-    {
-        input: path.resolve(__dirname, "kegg_data/filtered"),
-        output: path.resolve(__dirname, "mesh_matched_results/filtered"),
-    },
+    // {
+    //     input: path.resolve(__dirname, "kegg_data/filtered"),
+    //     output: path.resolve(__dirname, "mesh_matched_results/filtered"),
+    // },
 ]
 
 paths.forEach((filePath) => {
     const { input, output } = filePath
-    // matchCSVToMeSH(input, output)
+    matchCSVToMeSH(input, output)
 })
 
 const notFilteredHerbs = path.resolve(__dirname, "mesh_matched_results/not_filtered", "medicinal_herbs_matched.csv")
 const filteredHerbs = path.resolve(__dirname, "mesh_matched_results/filtered", "medicinal_herbs_matched.csv")
 const outputFilePath = path.resolve(__dirname, "mesh_matched_results/combined", "medicinal_herbs.csv")
-
-
 
 // mergeAndCompareTwoCSVFiles(notFilteredHerbs, filteredHerbs, outputFilePath)
 
@@ -44,8 +42,8 @@ const outputFilePath = path.resolve(__dirname, "mesh_matched_results/combined", 
 // const diseasesFilePath = path.resolve(__dirname, "diseases", "diseases.csv")
 // getDiseases(diseasesFilePath)
 
-const filteredFolderPath = path.resolve(__dirname, "mesh_matched_results", "filtered")
-const nonFilteredFolderPath = path.resolve(__dirname, "mesh_matched_results", "not_filtered")
-const mergedFolderPath = path.resolve(__dirname, "mesh_matched_results", "combined")
+// const filteredFolderPath = path.resolve(__dirname, "mesh_matched_results", "filtered")
+// const nonFilteredFolderPath = path.resolve(__dirname, "mesh_matched_results", "not_filtered")
+// const mergedFolderPath = path.resolve(__dirname, "mesh_matched_results", "combined")
 
-mergeFilteredNonFiltered(filteredFolderPath, nonFilteredFolderPath, mergedFolderPath)
+// mergeFilteredNonFiltered(filteredFolderPath, nonFilteredFolderPath, mergedFolderPath)
