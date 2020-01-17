@@ -9,6 +9,7 @@ interface IEntryValue {
     id?: string
     name: string
     terms?: string[]
+    matched: number
 }
 
 interface IEntry {
@@ -46,7 +47,7 @@ const matchEntryToMeSH = (entryName: string): IEntry => {
                 // should be option
                 // its disabled
                 const branchPath = splitedBranch.slice(0, splitedBranch.length - 1)
-                const branchValue = findTreeBranchValue(splitedBranch, meshTreeMap)
+                const branchValue = findTreeBranchValue(branchPath, meshTreeMap)
                 const relatedEntries = getNestedObjectValues(branchValue) // returns list with descriptor UIs
 
                 relatedEntries.forEach((entryUI) => {
@@ -62,7 +63,7 @@ const matchEntryToMeSH = (entryName: string): IEntry => {
                         // }
 
                         const terms = meshDescUIMap[ sanitizedEntryUI ].terms
-                        matchedEntries.push({ name, terms, id: sanitizedEntryUI })
+                        matchedEntries.push({ name, terms, id: sanitizedEntryUI, matched: 1 })
                     }
                 })
             })
@@ -76,7 +77,7 @@ const matchEntryToMeSH = (entryName: string): IEntry => {
     } else {
         return {
             matched: false,
-            value: [ { name: sanitizedEntryName } ],
+            value: [ { name: sanitizedEntryName, matched: 0, terms: [], id: "" } ],
         }
     }
 }

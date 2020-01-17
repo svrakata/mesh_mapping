@@ -15,8 +15,8 @@ import mergeFilteredNonFiltered from "./merge_filtered_not_filtered"
 
 const paths = [
     {
-        input: path.resolve(__dirname, "kegg_data/not_filtered/same_branch"),
-        output: path.resolve(__dirname, "mesh_matched_results/not_filtered/same_branch"),
+        input: path.resolve(__dirname, "kegg_data/not_filtered"),
+        output: path.resolve(__dirname, "mesh_matched_results/not_filtered"),
     },
     // {
     //     input: path.resolve(__dirname, "kegg_data/filtered"),
