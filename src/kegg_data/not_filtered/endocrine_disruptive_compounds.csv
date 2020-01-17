@@ -1,113 +1,114 @@
-"name"
-Alkylphenols
-Bisphenols
-Carbamate pesticides
-Dioxinsdioxin-like compounds
-Dithiocarbamate pesticides
-Flame retardants
-Mono-ortho PCBs
-Non-ortho (coplanar) PCBs
-Organochlorine pesticides
-PBDEs
-PCDDs
-PCDFs
-Pesticidesherbicides
-Phenoxy herbicides
-Phthalates
-Plasticizersplastics
-Pyrethroid pesticides
-Styrenes
-Triazine herbicides
-Heptachlorodibenzodioxin
-Heptachlorodibenzofuran
-Octachlorodibenzo-p-dioxin
-Octachlorodibenzofuran
-Hexachlorodibenzodioxin
-Hexachlorodibenzofuran
-Heptachlorodibenzofuran
-Hexachlorodibenzodioxin
-Hexachlorodibenzofuran
-Pentachlorodibenzodioxin
-Pentachlorodibenzofuran
-Hexachlorodibenzodioxin
-Hexachlorodibenzofuran
-Tetrabromodiphenyl ether
-Pentabromodiphenyl ether
-Hexabromodiphenyl ether
-Tetrabromodiphenyl ether
-Hexachlorobiphenyl
-Heptachlorobiphenyl
-Hexachlorobiphenyl
-Pentachlorobiphenyl
-Hexachlorodibenzofuran
-Pentachlorodibenzofuran
-Tetrachlorodibenzodioxin
-Tetrachlorodibenzofuran
-Pentachlorobiphenyl
-Hexachlorobiphenyl
-Pentachlorobiphenyl
-Dichlorophenol
-Dichlorophenoxyacetate
-Trichlorophenoxyacetic acid
-Pentachlorobiphenyl
-Tetrachlorobiphenyl
-Tetrachlorobiphenyl
-Hexachlorobiphenyl
-Octylphenol
-Alachlor
-Aldicarb
-Aldrin
-alpha-Hexachlorocyclohexane
-Amitrole
-Atrazine
-Benlate
-Bisphenol
-Butylbenzyl phthalate
-Carbaryl
-Chlordane
-Chlordecone
-Cypermethrin
-DDD
-DDE
-DDT
-hexyl phthalate
-pentyl phthalate
-propylphthalate
-Dibromochloropropane
-Dibutyl phthalate
-Dicofol
-Dicyclohexyl phthalate
-Dieldrin
-Diethyl phthalate
-Diethylhexyl adipate
-Diethylhexyl phthalate
-Endosulfan
-Endrin
-Esfenvalerate
-Fenvalerate
-Heptachlor
-Heptachlor epoxide
-Hexachlorobenzene
-Malathion
-Mancozeb
-Maneb
-Methomyl
-Methoxychlor
-Metiram
-Metribuzin
-Mirex
-Nitrofen
-Nonylphenol
-Octachlorostyrene
-Oxychlordane
-Parathion
-Pentachlorophenol
-Permethrin
-Simazine
-Styrene
-Toxaphene
-trans-Nonachlor
-Trifluralin
-Vinclozolin
-Zineb
-Ziram
+"name","code"
+"Alkylphenols",""
+"Bisphenols",""
+"Carbamate pesticides",""
+"Dioxins and dioxin-like compounds",""
+"Dithiocarbamate pesticides",""
+"Flame retardants",""
+"Mono-ortho PCBs",""
+"Non-ortho (coplanar) PCBs",""
+"Organochlorine pesticides",""
+"PBDEs",""
+"PCDDs",""
+"PCDFs",""
+"Pesticides and herbicides",""
+"Phenoxy herbicides",""
+"Phthalates",""
+"Plasticizers and plastics",""
+"Pyrethroid pesticides",""
+"Styrenes",""
+"Triazine herbicides",""
+"1,2,3,4,6,7,8-Heptachlorodibenzodioxin","C18103"
+"1,2,3,4,6,7,8-Heptachlorodibenzofuran","C18111"
+"1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin","C18180"
+"1,2,3,4,6,7,8,9-Octachlorodibenzofuran","C18113"
+"1,2,3,4,7,8-Hexachlorodibenzodioxin","C18100"
+"1,2,3,4,7,8-Hexachlorodibenzofuran","C18107"
+"1,2,3,4,7,8,9-Heptachlorodibenzofuran","C18112"
+"1,2,3,6,7,8-Hexachlorodibenzodioxin","C18101"
+"1,2,3,6,7,8-Hexachlorodibenzofuran","C18109"
+"1,2,3,7,8-Pentachlorodibenzodioxin","C18099"
+"1,2,3,7,8-Pentachlorodibenzofuran","C18105"
+"1,2,3,7,8,9-Hexachlorodibenzodioxin","C18102"
+"1,2,3,7,8,9-Hexachlorodibenzofuran","C18108"
+"2,2',4,4'-Tetrabromodiphenyl ether","C18205"
+"2,2',4,4',5-Pentabromodiphenyl ether","C18203"
+"2,2',4,4',5,6'-Hexabromodiphenyl ether","C18138"
+"2,2',4,5'-Tetrabromodiphenyl ether","C18204"
+"2,3,3',4,4',5-Hexachlorobiphenyl","C18120"
+"2,3,3',4,4',5,5'-Heptachlorobiphenyl","C18123"
+"2,3,3',4,4',5'-Hexachlorobiphenyl","C18121"
+"2,3,4,3',4'-Pentachlorobiphenyl","C18116"
+"2,3,4,4',5-Pentachlorobiphenyl","C18117"
+"2,3,4,6,7,8-Hexachlorodibenzofuran","C18110"
+"2,3,4,7,8-Pentachlorodibenzofuran","C18106"
+"2,3,7,8-Tetrachlorodibenzodioxin","C07557"
+"2,3,7,8-Tetrachlorodibenzofuran","C18104"
+"2,3',4,4',5-Pentachlorobiphenyl","C18118"
+"2,3',4,4',5,5'-Hexachlorobiphenyl","C18122"
+"2,3',4,4',5'-Pentachlorobiphenyl","C18119"
+"2,4-Dichlorophenol","C02625"
+"2,4-Dichlorophenoxyacetate","C03664"
+"2,4,5-Trichlorophenoxyacetic acid","C07100"
+"3,3',4,4',5-Pentachlorobiphenyl","C14573"
+"3,4,3',4'-Tetrachlorobiphenyl","C11057"
+"3,4,4',5-Tetrachlorobiphenyl","C18114"
+"3,4,5,3',4',5'-Hexachlorobiphenyl","C18115"
+"4-Octylphenol","C14132"
+"Alachlor","C10928"
+"Aldicarb","C11015"
+"Aldrin","C07552"
+"alpha-Hexachlorocyclohexane","C15214"
+"Amitrole","C11261"
+"Atrazine","C06551"
+"Benlate","C10896"
+"Bisphenol A","C13624"
+"Butylbenzyl phthalate","C14211"
+"Carbaryl","C07491"
+"Chlordane","C14176"
+"Chlordecone","C01792"
+"Cypermethrin","C10984"
+"DDD","C06636"
+"DDE","C04596"
+"DDT","C04623"
+"Di-n-hexyl phthalate","C14504"
+"Di-n-pentyl phthalate","C14300"
+"Di-n-propylphthalate","C14469"
+"Dibromochloropropane","C14336"
+"Dibutyl phthalate","C14214"
+"Dicofol","C14301"
+"Dicyclohexyl phthalate","C14529"
+"Dieldrin","C13718"
+"Diethyl phthalate","C14175"
+"Diethylhexyl adipate","C14240"
+"Diethylhexyl phthalate","C03690"
+"Endosulfan","C11090"
+"Endrin","C18124"
+"Esfenvalerate","C18147"
+"Fenvalerate","C10988"
+"Heptachlor","C14185"
+"Heptachlor epoxide","C14327"
+"Hexachlorobenzene","C11042"
+"Malathion","C07497"
+"Mancozeb","C15225"
+"Maneb","C15231"
+"Methomyl","C11196"
+"Methoxychlor","C11043"
+"Metiram","C18144"
+"Metribuzin","C14332"
+"Mirex","C14184"
+"Nitrofen","C11065"
+"Nonylphenol","C14993"
+"Octachlorostyrene","C18148"
+"Oxychlordane","C18146"
+"Parathion","C06604"
+"Pentachlorophenol","C02575"
+"Permethrin","C14388"
+"Simazine","C11172"
+"Styrene","C07083"
+"Toxaphene","C15470"
+"trans-Nonachlor","C18145"
+"Trifluralin","C14343"
+"Vinclozolin","C10981"
+"Zineb","C15232"
+"Ziram","C15229"
