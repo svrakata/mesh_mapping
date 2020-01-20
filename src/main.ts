@@ -11,6 +11,7 @@ import matchCSVToMeSH from "./match_csv_to_mesh"
 import mergeAndCompareTwoCSVFiles from "./utilities/merge_and_compare_two_csv_files"
 
 
+import getSignsAndSymptoms from "./get_signs_symptoms"
 import mergeFilteredNonFiltered from "./merge_filtered_not_filtered"
 
 const paths = [
@@ -26,7 +27,7 @@ const paths = [
 
 paths.forEach((filePath) => {
     const { input, output } = filePath
-    matchCSVToMeSH(input, output)
+    // matchCSVToMeSH(input, output)
 })
 
 const notFilteredHerbs = path.resolve(__dirname, "mesh_matched_results/not_filtered", "medicinal_herbs_matched.csv")
@@ -39,8 +40,11 @@ const outputFilePath = path.resolve(__dirname, "mesh_matched_results/combined", 
 // const outputFolderPath = path.resolve(__dirname, "qualifiers")
 // extractQualifiers(qualifiersXMLFilePath, outputFolderPath)
 
-// const diseasesFilePath = path.resolve(__dirname, "diseases", "diseases.csv")
-// getDiseases(diseasesFilePath)
+const diseasesFilePath = path.resolve(__dirname, "diseases", "diseases.csv")
+getDiseases(diseasesFilePath)
+
+const signsAndSymptomsFilesPath = path.resolve(__dirname, "signs_symptoms", "signs_symptoms.csv")
+getSignsAndSymptoms(signsAndSymptomsFilesPath)
 
 // const filteredFolderPath = path.resolve(__dirname, "mesh_matched_results", "filtered")
 // const nonFilteredFolderPath = path.resolve(__dirname, "mesh_matched_results", "not_filtered")

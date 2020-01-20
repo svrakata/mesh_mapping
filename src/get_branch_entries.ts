@@ -24,11 +24,8 @@ const getBranchEntries = (branchID: string) => {
         const sanitizedEntryUI = sanitizeString(entryUI)
 
         if (meshDescUIMap.hasOwnProperty(sanitizedEntryUI)) {
-
-            const name = meshDescUIMap[ sanitizedEntryUI ].name
-            const terms = meshDescUIMap[ sanitizedEntryUI ].terms
-
-            matchedEntries.push({ name, terms, id: sanitizedEntryUI })
+            const { name, terms, treeList } = meshDescUIMap[ sanitizedEntryUI ]
+            matchedEntries.push({ name, terms, id: sanitizedEntryUI, treeList })
         }
     })
 
