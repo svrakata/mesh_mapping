@@ -5,9 +5,9 @@ import isPermutation from "./utilities/is_permutation"
 import removePermutations from "./utilities/remove_permutations"
 import removeRepeatingElements from "./utilities/remove_repeating_elements"
 
-const getSignsAndSymptoms = (outputFilePath: string) => {
+const getBodyRegions = (outputFilePath: string) => {
     const writeStream = fs.createWriteStream(outputFilePath)
-    const signsAndSymptomsBranch = "C23.888"
+    const signsAndSymptomsBranch = "A01"
     const entries = getBranchEntries(signsAndSymptomsBranch)
     const idMap = {}
     const symptoms = []
@@ -36,7 +36,6 @@ const getSignsAndSymptoms = (outputFilePath: string) => {
             const sanitizedTerms = removeRepeatingElements(removePermutations(filterPluralForms(filteredTerms)))
                 .filter((term) => term !== name)
                 .map((term: string) => `"${term}"`)
-
             symptoms.push({ id, name: sanitizedName, terms: sanitizedTerms })
         }
     })
@@ -45,8 +44,9 @@ const getSignsAndSymptoms = (outputFilePath: string) => {
         const compare = prev.name.split(" ").length - next.name.split(" ").length
         if (compare === 0) {
             return prev.name.localeCompare(next.name)
+        } else {
+            return compare
         }
-        return compare
     })
 
     symptoms.forEach(
@@ -54,4 +54,4 @@ const getSignsAndSymptoms = (outputFilePath: string) => {
     )
 }
 
-export default getSignsAndSymptoms
+export default getBodyRegions
