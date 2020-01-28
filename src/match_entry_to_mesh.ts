@@ -58,9 +58,9 @@ const matchEntryToMeSH = (entryName: string): IEntry => {
                         const name = meshDescUIMap[ sanitizedEntryUI ].name
 
                         // checks the entry name at particular match
-                        // if (name === "embryophyta") {
-                        //     console.log(entryName)
-                        // }
+                        if (name === "benserazide") {
+                            console.log(entryName)
+                        }
 
                         const terms = meshDescUIMap[ sanitizedEntryUI ].terms
                         matchedEntries.push({ name, terms, id: sanitizedEntryUI, matched: 1 })

@@ -1,6 +1,6 @@
 "d000334","aerophagy","air swallowing"
 "d000370","ageusia","ageusia hysterical","hypogeusia","taste blindness"
-"d000377","agnosia","agnosia for smell","olfactory agnosia","agnosia for taste","gustatory agnosia","agnosia for temperature","anosognosia","auditory agnosia","congenital auditory agnosia","agnosia body image","agnosia developmental","agnosia finger","agnosia ideational","agnosia position","agnosia sensory","agnosia somatosensory","agnosia tactile","agnosia time","agnosia topographical","syndrome visual disorientation","agnosia visual","visual agnosia for objects","visuospatial agnosia","agnosia for pain"
+"d000377","agnosia","agnosia for smell","olfactory agnosia","agnosia for taste","gustatory agnosia","agnosia for temperature","anosognosia","auditory agnosia","auditory agnosia congenital","agnosia body image","agnosia developmental","agnosia finger","agnosia ideational","agnosia position","agnosia sensory","agnosia somatosensory","agnosia tactile","agnosia time","agnosia topographical","syndrome visual disorientation","agnosia visual","visual agnosia for objects","visuospatial agnosia","agnosia for pain"
 "d000381","agraphia","dysgraphia","constructional agraphia","acquired agraphia","acquired dysgraphia","developmental agraphia","developmental dysgraphia","pure agraphia"
 "d000419","albuminuria",
 "d066190","allesthesia","alloesthesia","allachesthesia","allochiria","dyschiria"
@@ -10,22 +10,22 @@
 "d015875","anisocoria","pupil diameter unequal","pupillary size inequality","anisocoria physiologic"
 "d000849","anomia","aphasia amnesic","nominal dysphasia","aphasia nominal","dysnomia","anomic dysphasia","aphasia anomic","color anomia"
 "d000855","anorexia",
-"d001037","aphasia","logasthenia","logagnosia","logamnesia","alogia","anepia","aphasia ageusic","discriminatory aphasia auditory","commisural aphasia","functional aphasia","global aphasia","global dysphasia","graphomotor aphasia","intellectual aphasia","mixed aphasia","aphasia post ictal","aphasia post traumatic","aphasia semantic","dejerine lichtheim phenomenon","lichtheim sign","dysphasia","aphasia syntactical","aphasia progressive","aphasia acquired"
+"d001037","aphasia","logasthenia","logagnosia","logamnesia","alogia","anepia","aphasia ageusic","aphasia auditory discriminatory","commisural aphasia","functional aphasia","global aphasia","global dysphasia","graphomotor aphasia","intellectual aphasia","mixed aphasia","aphasia post ictal","aphasia post traumatic","aphasia semantic","dejerine lichtheim phenomenon","lichtheim sign","dysphasia","aphasia syntactical","aphasia progressive","aphasia acquired"
 "d001044","aphonia","absence of voice","voice absence","functional aphonia","nonorganic aphonia","spastic aphonia","aphonia paralytica"
 "d001049","apnea",
-"d001072","apraxias","dyspraxia","apraxia","apraxia articulatory","dyspraxia articulatory","verbal apraxia developmental","disorder 1 speech language","dyspraxia developmental verbal","apraxia facial oral","speech and language disorder with orofacial dyspraxia","ideational apraxia","apraxia motor","apraxia oral","dyspraxia oral","apraxia verbal","dyspraxia verbal","dressing apraxia","apraxia of phonation","phonation apraxia","apraxia gestural"
+"d001072","apraxias","apraxia","apraxia articulatory","dyspraxia articulatory","apraxia developmental verbal","disorder 1 speech language","dyspraxia developmental verbal","apraxia facial oral","speech and language disorder with orofacial dyspraxia","ideational apraxia","apraxia motor","apraxia oral","dyspraxia oral","apraxia verbal","dyspraxia verbal","dressing apraxia","apraxia of phonation","phonation apraxia","apraxia gestural"
 "d018771","arthralgia","joint pain","polyarthralgia"
 "d001247","asthenia",
 "d001259","ataxia","coordination impairment","dyssynergia","ataxy","ataxia motor","tremor rubral","ataxia truncal","dyscoordination","lack of coordination","coordination lack","incoordination","ataxia appendicular","ataxia limb","ataxia sensory"
 "d001264","athetosis","athetoses","hammond disease","athetoid movement"
-"d001766","blindness","blindness bilateral","bilateral blindnesses","amaurosis","amauroses","blindness acquired","sudden visual losses","visual loss sudden","hysterical blindness","transient blindness","blindness legal","blindness monocular","blindness unilateral","blindness complete"
+"d001766","blindness","blindness bilateral","bilateral blindnesses","amaurosis","amauroses","blindness acquired","sudden visual losses","visual loss sudden","blindness hysterical","blindness transient","blindness legal","blindness monocular","blindness unilateral","blindness complete"
 "d002032","bulimia","binge eating"
 "d002100","cachexia",
 "d002375","catalepsy","catalepsies","anochlesia","cerea flexibilitas","flexibility waxy","flexibilities waxy"
 "d002389","catatonia","catatonia organic","organic catatonic disorder","schizophreniform catatonia","catatonia malignant","lethal catatonia"
 "d000071697","cellulite",
 "d023341","chills",
-"d002819","chorea","chorea syndrome","choreiform movement","choreatic syndrome","choreic movement","chorea disorder","choreatic disorder","progressive chorea chronic","st vitus dance","chorea sydenham","rheumatic chorea","chorea hereditary","paroxysmal dyskinesia","benign hereditary chorea","hereditary progressive chorea without dementia","chorea senile"
+"d002819","chorea","chorea syndrome","choreiform movement","choreatic syndrome","choreic movement","chorea disorder","choreatic disorder","chorea chronic progressive","st vitus dance","chorea sydenham","rheumatic chorea","chorea hereditary","dyskinesia paroxysmal","benign hereditary chorea","hereditary progressive chorea without dementia","chorea senile"
 "d003128","coma","comatose","pseudocoma"
 "d003221","confusion","confusional state","disorientation","confusion reactive","bewilderment","confusion post ictal"
 "d003248","constipation","dyschezia","colonic inertia"
@@ -39,8 +39,8 @@
 "d004401","dysarthria","dysarthosis","dysarthoses","dysarthria spastic","dysarthria mixed","dysarthria scanning","dysarthria flaccid","dysarthria guttural"
 "d060705","dyscalculia","acalculia","acquired dyscalculia","secondary acalculia","developmental dyscalculia","primary dyscalculia"
 "d004408","dysgeusia","taste distorted","taste altered","parageusia"
-"d020820","dyskinesias","dyskinesia","abnormal movement","oral dyskinesia","orofacial dyskinesia","oral facial dyskinesia","linguofacial dyskinesia","lingual facial buccal dyskinesia","tardive oral dyskinesia","hemiballismus","hemiballism","involuntary movement","asterixis","ballismus"
-"d004410","dyslexia","word blindness","blindnesses word","reading disorder","reading disorder developmental","dyslexia developmental","reading disability developmental","reading disabilities developmental","alexia"
+"d020820","dyskinesias","abnormal movement","oral dyskinesia","orofacial dyskinesia","oral facial dyskinesia","linguofacial dyskinesia","lingual facial buccal dyskinesia","tardive oral dyskinesia","hemiballismus","hemiballism","involuntary movement","asterixis","ballismus"
+"d004410","dyslexia","word blindness","blindnesses word","reading disorder","reading disorder developmental","developmental dyslexia","developmental reading disabilities","developmental reading disability","alexia"
 "d004412","dysmenorrhea","pain menstrual","menstruation painful"
 "d004415","dyspepsia","indigestion"
 "d055154","dysphonia","phonation disorder","organic tremor dysphonia","spastic dysphonia neurologic adducter","hyperkinetic dysphonia","spastic dysphonia"
@@ -56,7 +56,7 @@
 "d004844","epistaxis","nasal bleeding","nose bleed","nosebleed"
 "d004884","eructation","belching"
 "d004890","erythema",
-"d005207","fasciculation","fasciculation muscular","fasciculation tongue","fasciculation benign","skeletal muscle fasciculation"
+"d005207","fasciculation","fasciculation muscular","fasciculation tongue","fasciculation benign","fasciculation skeletal muscle"
 "d005221","fatigue","lassitude"
 "d005262","feminization",
 "d005334","fever","pyrexia","hyperthermia"
@@ -66,7 +66,7 @@
 "d018589","gastroparesis","gastropareses","gastric stasis","gastric stases"
 "d005926","glossalgia","glossodynia","glossopyrosis","glossopyroses"
 "d006209","halitosis","halitoses"
-"d006212","hallucinations","hallucination","hallucination visual","hallucination of body sensation","body sensation hallucination","auditory hallucination","dissociative hallucination","elementary hallucination","gustatory hallucination","hallucination hypnagogic","hallucination hypnapompic","hallucination kinesthetic","hallucination mood congruent","hallucination mood incongruent","hallucination olfactory","hallucination organic","hallucination reflex","hallucination sensory","hallucination somatic","hallucination tactile","verbal auditory hallucination"
+"d006212","hallucinations","hallucination visual","hallucination of body sensation","body sensation hallucination","auditory hallucination","dissociative hallucination","elementary hallucination","gustatory hallucination","hallucination hypnagogic","hallucination hypnapompic","hallucination kinesthetic","hallucination mood congruent","hallucination mood incongruent","hallucination olfactory","hallucination organic","hallucination reflex","hallucination sensory","hallucination somatic","hallucination tactile","verbal auditory hallucination"
 "d006261","headache","head pain","cephalodynia","cranial pain","cephalalgia","cephalgia","generalized headache","ocular headache","orthostatic headache","vertex headache","retro ocular headache","sharp headache","throbbing headache","unilateral headache","hemicrania","bilateral headache","periorbital headache"
 "d006356","heartburn","pyrosis","pyroses"
 "d006396","hematemesis","hematemeses"
@@ -94,7 +94,7 @@
 "d007035","hypothermia","hypothermia accidental"
 "d007040","hypoventilation",
 "d000860","hypoxia","oxygen deficiency","deficiencies oxygen","hypoxemia","anoxia","anoxemia"
-"d007088","illusions","illusion","autokinetic illusion","illusion visual","illusion kinesthetic","illusion tactile","autokinetic effect","auditory illusion"
+"d007088","illusions","autokinetic illusion","illusion visual","illusion kinesthetic","illusion tactile","autokinetic effect","auditory illusion"
 "d007565","jaundice","icterus","jaundice hemolytic"
 "d053609","lethargy",
 "d059373","mastodynia","mammalgia","breast pain","mastalgia"
@@ -107,7 +107,7 @@
 "d020385","myokymia","kymatism","morvan fibrillary chorea","fibrillary chorea","morvan chorea","myokymia generalized"
 "d009222","myotonia","percussion myotonia","myotonic phenomenon"
 "d009325","nausea",
-"d009437","neuralgia","neuropathic pain","neurodynia","neuralgia atypical","nerve neuralgia iliohypogastric","nerve pain paroxysmal","perineal neuralgia","stump neuralgia","supraorbital neuralgia","vidian neuralgia","pain nerve","ilioinguinal neuralgia"
+"d009437","neuralgia","neuropathic pain","neurodynia","neuralgia atypical","neuralgia iliohypogastric nerve","nerve pain paroxysmal","perineal neuralgia","stump neuralgia","supraorbital neuralgia","vidian neuralgia","pain nerve","ilioinguinal neuralgia"
 "d053158","nocturia","nycturia"
 "d009765","obesity",
 "d009846","oliguria",
@@ -125,7 +125,7 @@
 "d059606","polydipsia",
 "d011141","polyuria",
 "d011304","presbycusis","presbycuses"
-"d020238","prosopagnosia","recognition agnosia facial","agnosia for face","prosopagnosia developmental","prosopagnosia acquired"
+"d020238","prosopagnosia","facial recognition agnosia","agnosia for face","prosopagnosia developmental","prosopagnosia acquired"
 "d053448","prostatism",
 "d011507","proteinuria",
 "d011537","pruritus","pruritis","itching"
@@ -136,7 +136,7 @@
 "d055948","sarcopenia",
 "d012585","sciatica","sciatic neuralgia","sciatica bilateral"
 "d012607","scotoma","scotoma arcuate","scotoma bjerrum","scotoma central","scotoma sector","scotoma paracecal","scotoma paracentral","scotoma peripheral","scotoma ring","scotoma scintillating","scotoma altitudinal","scotoma centrocecal"
-"d012640","seizures","seizure","seizure complex partial","tonic clonic seizure","seizure clonic","tonic seizure","seizure atonic","atonic absence seizure","seizure myoclonic","seizure epileptic","sensory seizure","seizure absence","convulsion petit mal","convulsion","convulsive seizure","motor seizure","jacksonian seizure","auditory seizure","focal seizure","partial seizure","generalized seizure","gustatory seizure","olfactory seizure","convulsion non epileptic","seizure somatosensory","seizure vertiginous","seizure vestibular","seizure visual","nonepileptic seizure","non epileptic seizure","tonic clonic seizure generalized","seizure generalised tonic clonic","seizure single","generalized absence seizure"
+"d012640","seizures","seizure complex partial","seizure tonic clonic","clonic seizure","seizure tonic","atonic seizure","seizure atonic absence","myoclonic seizure","epileptic seizure","seizure sensory","absence seizure","petit mal convulsion","convulsion","convulsive seizure","motor seizure","jacksonian seizure","auditory seizure","focal seizure","partial seizure","generalized seizure","gustatory seizure","olfactory seizure","convulsion non epileptic","seizure somatosensory","seizure vertiginous","seizure vestibular","seizure visual","nonepileptic seizure","non epileptic seizure","tonic clonic seizure generalized","tonic clonic seizure generalised","seizure single","seizure generalized absence"
 "d000077260","sleepiness","somnolence"
 "d012912","sneezing",
 "d012913","snoring",
@@ -148,34 +148,34 @@
 "d059246","tachypnea",
 "d013746","tetany","tetanies","tetanilla","tetany neonatal","neonatal tetanies","spasmophilia"
 "d013851","thinness","leanness","underweight"
-"d020323","tics","tic","habituation spasm","habit chorea","habit spasm","tic vocal","tic transient","tic gestural","tic motor"
+"d020323","tics","habituation spasm","habit chorea","habit spasm","tic vocal","tic transient","tic gestural","tic motor"
 "d014012","tinnitus","ringing buzzing tinnitus","tinnitus tensor palatini induced","tinnitus tensor tympani induced","pulsatile tinnitus","tinnitus spontaneous oto acoustic emission","tinnitus clicking","tinnitus leudet","noise induced tinnitus","objective tinnitus","subjective tinnitus","tinnitus of vascular origin","vascular origin tinnitus"
 "d014098","toothache","odontalgia"
 "d014103","torticollis","wryneck","spasmodic torticollis","cervical dystonia","torticollis psychogenic","torticollis intermittent"
-"d014202","tremor","tremor semirhythmic","static tremor","tremor limb","tremor muscle","tremor neonatal","tremor nerve","action tremor","intention tremor","coarse tremor","continuous tremor","darkness tremor","fine tremor","intermittent tremor","involuntary quiver","massive tremor","passive tremor","persistent tremor","tremor pill rolling","tremor resting","tremor rest","perioral tremor","tremor saturnine","tremor senile"
-"d014313","trismus","lockjaw","lock jaw","spasm masseter muscle","spasm masseter"
+"d014202","tremor","tremor semirhythmic","static tremor","tremor limb","tremor muscle","tremor neonatal","tremor nerve","action tremor","intention tremor","coarse tremor","continuous tremor","darkness tremor","fine tremor","intermittent tremor","involuntary quiver","massive tremor","passive tremor","persistent tremor","pill rolling tremor","tremor resting","tremor rest","perioral tremor","tremor saturnine","tremor senile"
+"d014313","trismus","lockjaw","lock jaw","masseter muscle spasm","spasm masseter"
 "d014474","unconsciousness","unconscious state","consciousness loss of"
 "d053584","urinoma",
-"d014717","vertigo","vertigo subjective","spinning sensation","positional vertigo","vertigo brain stem","vertigo brainstem","vertigo peripheral","vertigo essential","vertigo intermittant","vertigo paroxysmal","central nervous system origin vertigo","origin vertigo central","origin vertigo cns","constant vertigo"
+"d014717","vertigo","vertigo subjective","spinning sensation","positional vertigo","vertigo brain stem","vertigo brainstem","vertigo peripheral","vertigo essential","vertigo intermittant","vertigo paroxysmal","central nervous system origin vertigo","vertigo central origin","origin vertigo cns","constant vertigo"
 "d014770","virilism","virilization","androgenization"
 "d014839","vomiting","emesis"
 "d000006","abdomen acute",
 "d015746","abdominal pain","colicky pain"
 "d059787","acute pain",
 "d019588","aging premature",
-"d020237","alexia pure","verbal agnosia visual","pure alexia without agraphia","pure word blindness","word blindnesses pure","agraphia alexia without","alexia syndrome without agraphia"
+"d020237","alexia pure","visual verbal agnosia","pure alexia without agraphia","pure word blindness","word blindnesses pure","agraphia alexia without","alexia syndrome without agraphia"
 "d020757","amaurosis fugax","transient monocular blindness"
 "d020324","amnesia anterograde","memory loss anterograde","anterograde memory losses","post ictal memory loss","losses post ictal memory","amnesia post ictal"
 "d000648","amnesia retrograde","memory loss retrograde","memory losses retrograde","pre ictal memory loss","memory losses pre ictal","amnesia pre ictal"
 "d000787","angina pectoris","stenocardia","angor pectoris"
-"d060050","angina stable","stable angina chronic","pectori stable angina"
-"d000789","angina unstable","angina pectori unstable","angina at rest","angina preinfarction","syndrome myocardial preinfarction"
-"d001039","aphasia broca","agrammatism","aphasia frontocortical","syndrome verbal aphasia","nonfluent aphasia","broca dysphasia","aphasia agrammatic broca","motor aphasia","ataxic aphasia","expressive aphasia","anterior aphasia"
+"d060050","angina stable","chronic stable angina","angina pectori stable"
+"d000789","angina unstable","angina pectori unstable","angina at rest","angina preinfarction","myocardial preinfarction syndrome"
+"d001039","aphasia broca","agrammatism","aphasia frontocortical","verbal aphasia syndrome","nonfluent aphasia","broca dysphasia","aphasia agrammatic broca","motor aphasia","ataxic aphasia","expressive aphasia","anterior aphasia"
 "d018886","aphasia conduction","dysphasia conduction","associative dysphasia","aphasia associative"
 "d001041","aphasia wernicke","fluent aphasia wernicke","dysphasia wernicke","aphasia posterior","receptive aphasia","dysphasia receptive","sensory aphasia","aphasia psychosensory","aphasia fluent","dysphasia fluent","dysphasia sensory","aphasia jargon"
-"d020240","apraxia ideomotor","limb kinetic apraxia","apraxia classic","ideomotor dyspraxia","ideokinetic apraxia","transcortical apraxia"
-"d001184","articulation disorders","articulation disorder","articulation disorder speech","impairment phonological","phonology impairment","disarticulation disorder","misarticulation","unintelligible articulation","articulation disorder developmental"
-"d001416","back pain","backache","back ache","back pain without radiation","syndrome vertebrogenic pain","back pain with radiation"
+"d020240","apraxia ideomotor","apraxia limb kinetic","apraxia classic","ideomotor dyspraxia","ideokinetic apraxia","transcortical apraxia"
+"d001184","articulation disorders","articulation disorder speech","impairment phonological","phonology impairment","disarticulation disorder","misarticulation","unintelligible articulation","articulation disorder developmental"
+"d001416","back pain","backache","back ache","back pain without radiation","vertebrogenic pain syndrome","back pain with radiation"
 "d000071699","bilateral vestibulopathy","bilateral vestibular deficiency","bilateral vestibular insufficiency","vestibular areflexia","bilateral vestibular loss"
 "d001724","birth weight",
 "d019575","blindness cortical","blindness cortical transient","anton syndrome","transient anton syndrome","psychic denial of blindness","reversible cortical blindness","reversible cortical blindnesses","anton babinski syndrome","blindness cortical post ictal"
@@ -184,10 +184,10 @@
 "d000072716","cancer pain","cancer associated pain","neoplasm related pain","oncological pain","tumor related pain","tumor associated pain","oncology pain","cancer related pain","neoplasm associated pain"
 "d002524","cerebellar ataxia","cerebellar incoordination","cerebellar hemiataxia","cerebellar dysmetria","dysmetria","hypermetria","adiadochokinesis","adiadochokineses"
 "d002637","chest pain","precordial catch syndrome","precordial catch","texidor twinge"
-"d059350","chronic pain","pain widespread chronic"
-"d003147","communication disorders","communication disorder","communicative disorder","communication disorder developmental","childhood communication disorder","communicative dysfunction","communication disorder neurogenic","communication disabilities","communication disability","acquired communication disorder"
+"d059350","chronic pain","widespread chronic pain"
+"d003147","communication disorders","communicative disorder","communication disorder developmental","childhood communication disorder","communicative dysfunction","communication disorder neurogenic","communication disabilities","communication disability","acquired communication disorder"
 "d000068376","compassion fatigue","vicarious trauma","secondary trauma","secondary traumatization","secondary traumatic stress","stresses secondary traumatic","vicarious traumatization"
-"d003244","consciousness disorders","consciousness disorder","consciousness level depressed","depressed level of consciousness","semiconsciousness","consciousness level altered","altered level of consciousness"
+"d003244","consciousness disorders","consciousness level depressed","depressed level of consciousness","semiconsciousness","consciousness level altered","altered level of consciousness"
 "d003655","decerebrate state","rigidity decerebrate","decorticate rigidity","decorticate rigidities","decorticate state","decerebrate posturing"
 "d003968","diarrhea infantile",
 "d004411","dyslexia acquired","word blindness acquired","word blindnesses acquired","acquired reading disabilities","acquired reading disability","dyslexia acquired global","dyslexia acquired spelling","acquired alexia"
@@ -195,7 +195,7 @@
 "d004489","edema cardiac",
 "d000071257","emergence delirium","emergence delirium anesthesia","excitement emergence","excitement postanesthetic","emergence agitated","agitation emergence"
 "d005130","eye hemorrhage","hemophthalmos"
-"d005132","eye manifestations","eye manifestation"
+"d005132","eye manifestations",
 "d058447","eye pain",
 "d005157","facial pain","face pain","orofacial pain","pain neuralgic facial","pain craniofacial","pain myofacial"
 "d005158","facial paralysis","paralyses facial","facial palsy","facial palsies","hemifacial paralysis","paralyses hemifacial","facial paresis","pareses facial","facial palsy lower motor neuron","facial paralyses peripheral","peripheral facial paralysis","upper motor neuron facial palsy","central facial paralyses","central facial paralysis","paralyses central facial"
@@ -203,29 +203,29 @@
 "d005311","fetal hypoxia","fetal anoxia"
 "d005320","fetal macrosomia",
 "d020567","fetal weight","body weight fetal"
-"d021501","flank pain","pain right flank","flank pain left"
+"d021501","flank pain","right flank pain","flank pain left"
 "d000073923","food intolerance","food sensitivity"
-"d020235","gait apraxia","dyspraxia of gait","gait dyspraxia","apraxia of gait","gait apraxia frontal","bruns apraxia of gait","bruns apraxia gait","gait apraxia bruns"
-"d020234","gait ataxia","ataxia of gait","sensory gait ataxia","ataxia cerebellar gait","gait cerebellar"
+"d020235","gait apraxia","dyspraxia of gait","gait dyspraxia","apraxia of gait","frontal gait apraxia","bruns apraxia of gait","bruns apraxia gait"
+"d020234","gait ataxia","ataxia of gait","gait ataxia sensory","ataxia cerebellar gait","gait cerebellar"
 "d005862","gerstmann syndrome","de gerstmann syndrome","gerstmann badal syndrome","finger agnosia left right confusion acalculia agraphia","syndrome developmental gerstmann","gerstmann syndrome 2","syndrome acquired gerstmann"
-"d006311","hearing disorders","hearing disorder","dysacusis","paracousis","paracusis","distorted hearing"
+"d006311","hearing disorders","dysacusis","paracousis","paracusis","distorted hearing"
 "d034381","hearing loss","hypoacusis","hypoacuses","hearing impairment","deafness transitory","deafnesses transitory","loss transitory hearing","transitory hearing losses"
-"d006337","heart murmurs","heart murmur","cardiac murmur","innocent murmur","diastolic murmur"
-"d019569","hemifacial spasm","unilateral facial spasm","myokymia hemifacial"
-"d006732","horner syndrome","oculosympathetic syndrome","ocular ophthalmoplegia sympathetic","syndrome bernard","claude bernard horner syndrome","ptosis sympathetic","horner syndrome pupil","miosis innervational defect","syndrome acquired horner","central horner syndrome"
+"d006337","heart murmurs","cardiac murmur","innocent murmur","diastolic murmur"
+"d019569","hemifacial spasm","facial spasm unilateral","myokymia hemifacial"
+"d006732","horner syndrome","oculosympathetic syndrome","ocular ophthalmoplegia sympathetic","bernard syndrome","claude bernard horner syndrome","ptosis sympathetic","horner syndrome pupil","miosis innervational defect","syndrome acquired horner","central horner syndrome"
 "d019584","hot flashes",
-"d015160","hydrops fetalis","edema fetal","fetal hydrops","hydrops fetali nonimmune","idiopathic hydrops fetali"
+"d015160","hydrops fetalis","fetal hydrops","hydrops fetali nonimmune","hydrops fetali idiopathic"
 "d006939","hyperemesis gravidarum","pernicious vomiting of pregnancy","pregnancy pernicious vomiting"
 "d064250","hypertriglyceridemic waist","enlarged waist elevated triglycerides"
-"d008607","intellectual disability","disabilities intellectual","retardation mental","disorder intellectual development","idiocy","retardation psychosocial mental","deficiencies mental","mental deficiency"
+"d008607","intellectual disability","disabilities intellectual","retardation mental","intellectual development disorder","idiocy","mental retardation psychosocial","deficiencies mental","mental deficiency"
 "d007383","intermittent claudication",
 "d041781","jaundice obstructive","jaundice mechanical","jaundice cholestatic"
 "d020915","korsakoff syndrome","wernicke korsakoff syndrome","korsakoff psychosis","korsakoff psychoses"
 "d048949","labor pain","obstetric pain"
-"d007806","language disorders","language disorder","acquired language disorder"
+"d007806","language disorders","acquired language disorder"
 "d007859","learning disabilities","disability learning","developmental academic disability","disabilities developmental academic","developmental disabilities of scholastic skills","academic disorder developmental","adult learning disabilities","learning disability adult","learning disorder adult","disturbance learning"
 "d054068","livedo reticularis",
-"d008569","memory disorders","memory disorder","cognitive retention disorder","memory loss","memory losses","memory disorder semantic","memory disorder spatial","age related memory disorder","deficit memory"
+"d008569","memory disorders","cognitive retention disorder","memory loss","memory losses","memory disorder semantic","memory disorder spatial","age related memory disorder","deficit memory"
 "d005222","mental fatigue",
 "d051346","mobility limitation","ambulation difficulties","difficulty ambulation","ambulatory difficulty","ambulatory difficulties","difficulty walking"
 "d048968","morning sickness",
@@ -233,7 +233,7 @@
 "d009041","motion sickness","seasickness","sea sickness","airsickness","air sickness","carsickness","car sickness"
 "d009058","mouth breathing",
 "d009120","muscle cramp","muscular cramp","cramp","limb cramp"
-"d009122","muscle hypertonia","tone increased muscle","hypertonicities muscular","hypertonicity muscular","hypermyotonia","hypertonia transient","hypertonia neonatal","hypertonia sphincter","muscle hypertonia detrusor","infantile hypertonia"
+"d009122","muscle hypertonia","tone increased muscle","hypertonicities muscular","hypertonicity muscular","hypermyotonia","hypertonia transient","hypertonia neonatal","hypertonia sphincter","hypertonia detrusor muscle","infantile hypertonia"
 "d009123","muscle hypotonia","decreased muscle tone","muscle tone poor","hypotonia","hypotony muscle","muscular hypotonia","hypomyotonia","unilateral hypotonia","muscle tone atonic","neonatal hypotonia","flaccid muscle tone","muscular flaccidity","muscular flaccidities","muscle flaccidity","floppy muscle"
 "d009127","muscle rigidity","rigidity muscular","cogwheel rigidity","cogwheel rigidities","nuchal rigidity","extrapyramidal rigidity","gegenhalten","catatonic rigidity","extensor rigidity"
 "d009128","muscle spasticity","spastic","clasp knife spasticity"
@@ -241,18 +241,18 @@
 "d009133","muscular atrophy","atrophies muscular","atrophy muscle","atrophies muscle","neurogenic muscular atrophy","neurogenic muscular atrophies","atrophies neurotrophic muscular","atrophy neurotrophic muscular"
 "d059352","musculoskeletal pain",
 "d017682","myocardial stunning","hibernation myocardial","stunned myocardium"
-"d019547","neck pain","neck ache","cervicalgia","cervicodynia","neckache","cervical pain","pain posterior cervical","neck pain posterior","cervical pain anterior","neck pain anterior"
+"d019547","neck pain","neck ache","cervicalgia","cervicodynia","neckache","cervical pain","posterior cervical pain","neck pain posterior","cervical pain anterior","neck pain anterior"
 "d051474","neuralgia postherpetic",
-"d019954","neurobehavioral manifestations","manifestation neurobehavioral","cognitive symptom","cognitive manifestation"
-"d009461","neurologic manifestations","manifestation neurologic","manifestation neurological","deficit neurologic","neurologic symptom","finding neurologic","neurologic sign","neurologic deficit focal","dysfunction neurologic"
-"d020879","neuromuscular manifestations","manifestation neuromuscular","signs and symptoms neuromuscular","muscle disease manifestation"
+"d019954","neurobehavioral manifestations","cognitive symptom","cognitive manifestation"
+"d009461","neurologic manifestations","manifestation neurological","deficit neurologic","neurologic symptom","finding neurologic","neurologic sign","neurologic deficit focal","dysfunction neurologic"
+"d020879","neuromuscular manifestations","signs and symptoms neuromuscular","muscle disease manifestation"
 "d059226","nociceptive pain","tissue pain","somatic pain"
 "d000079262","obesity maternal","obesity in pregnancy"
 "d009767","obesity morbid","morbid obesities","obesity severe","obesities severe"
-"d000857","olfaction disorders","olfaction disorder","smell disorder","cacosmia","dysosmia","paraosmia","anosmia"
-"d060486","ophthalmoplegic migraine","syndrome ophthalmoplegic migraine"
+"d000857","olfaction disorders","smell disorder","cacosmia","dysosmia","paraosmia","anosmia"
+"d060486","ophthalmoplegic migraine","ophthalmoplegic migraine syndrome"
 "d006472","oral hemorrhage",
-"d009912","oral manifestations","manifestation oral"
+"d009912","oral manifestations",
 "d054971","orthostatic intolerance",
 "d010148","pain intractable","refractory pain"
 "d010149","pain postoperative",
@@ -261,75 +261,75 @@
 "d020336","paraparesis spastic","parapareses spastic","spastic lower extremity weakness"
 "d063766","pediatric obesity","childhood onset obesity","obesity in childhood","child obesity","childhood obesity","infant overweight","infantile obesity","infant obesity","childhood overweight","adolescent overweight","adolescent obesity","obesity in adolescence"
 "d017699","pelvic pain",
-"d010468","perceptual disorders","perceptual disorder","somatosensory discrimination disorder","sensory neglect","hemisensory neglect","hemispatial neglect"
-"d010591","phantom limb","phantom sensation","pseudomelia","pain phantom limb","pain phantom"
+"d010468","perceptual disorders","somatosensory discrimination disorder","sensory neglect","hemisensory neglect","hemispatial neglect"
+"d010591","phantom limb","phantom sensation","pseudomelia","phantom limb pain","pain phantom"
 "d059607","polydipsia psychogenic","polydipsia primary"
-"d062706","prodromal symptoms","prodromal symptom","prodromal syndrome","characteristic prodromal","prodromal sign","prodromal state","prodromal period","prodromal stage"
+"d062706","prodromal symptoms","prodromal syndrome","characteristic prodromal","prodromal sign","prodromal state","prodromal period","prodromal stage"
 "d020828","pseudobulbar palsy","palsies pseudobulbar","spastic bulbar palsy","spastic bulbar palsies","pareses pseudobulbar","paresis pseudobulbar","syndrome pseudobulbar","paralyses pseudobulbar","pseudobulbar paralysis","mutism pseudobulbar","pseudobulbar dysarthria"
 "d011595","psychomotor agitation","restlessness","psychomotor hyperactivity","psychomotor restlessness","excitement psychomotor","akathisia"
-"d011596","psychomotor disorders","developmental psychomotor disorder","psychomotor impairment"
-"d011602","psychophysiologic disorders","psychophysiologic disorder","psychosomatic disorder","psychophysiological disorder"
-"d060545","pudendal neuralgia","pudendal neuropathy","neuropathies pudendal","pudendal nerve entrapment syndrome","nerve entrapment pudendal","pudendal canal entrapment syndrome"
-"d011681","pupil disorders","pupil disorder","pupillary disorder","pupil reaction absent","pupillary sector paralysis","sector paralyses pupillary","sector pupil palsy","sphincter rupture pupillary","hemianopic pupil wernicke","pupillary defect afferent","marcus gunn pupil","deformed pupil","ectopic pupil","efferent pupillary defect","fixed pupil","keyhole pupil","non syphilitic argyll robertson pupil","occluded pupil","pupillary occlusion","malformation pupil","pupillary anomaly","anomalies pupillary","abnormal pupillary function","pupillary paralysis","paralyses pupillary"
+"d011596","psychomotor disorders","psychomotor impairment"
+"d011602","psychophysiologic disorders","psychosomatic disorder","psychophysiological disorder"
+"d060545","pudendal neuralgia","pudendal neuropathy","neuropathies pudendal","pudendal nerve entrapment syndrome","pudendal nerve entrapment","pudendal canal entrapment syndrome"
+"d011681","pupil disorders","pupillary disorder","pupil reaction absent","pupillary sector paralysis","sector paralyses pupillary","sector pupil palsy","pupillary sphincter rupture","hemianopic pupil wernicke","afferent pupillary defect","marcus gunn pupil","deformed pupil","ectopic pupil","efferent pupillary defect","fixed pupil","keyhole pupil","non syphilitic argyll robertson pupil","occluded pupil","pupillary occlusion","malformation pupil","pupillary anomaly","anomalies pupillary","abnormal pupillary function","pupillary paralysis","paralyses pupillary"
 "d055665","purpura fulminans",
 "d011694","purpura hyperglobulinemic","purpura waldenstrom hyperglobulinemic","hyperglobulinemic purpura of waldenstrm","waldenstrm hyperglobulinemic purpura","benign hyperglobulinemic purpura of waldenstrm","hypergammaglobulinemic purpura of waldenstrom","waldenstrom hypergammaglobulinemic purpura"
 "d011696","purpura thrombocytopenic","purpura thrombopenic"
 "d012021","reflex abnormal","reflexes abnormal","reflex triceps absent","reflex ankle decreased","reflex biceps abnormal","reflex biceps absent","reflex biceps decreased","reflex anal decreased","reflex ankle abnormal","abnormal deep tendon reflex","reflex decreased bulbocavernosus","reflex absent bulbocavernousus","reflex hoffmans","hyperreflexia","hyporeflexia","reflex decreased","palmo mental reflex","reflex absent","reflex acoustic abnormal","reflex anal absent","reflex corneal absent","reflex corneal decreased","reflex deep tendon absent","reflex gag absent","reflex gag decreased","reflex knee abnormal","reflex knee decreased","reflex moro asymmetric","reflex pendular","reflex triceps abnormal","reflex triceps decreased","reflex ankle absent"
-"d056844","renal colic","renal colic acute","colic ureteral"
+"d056844","renal colic","acute renal colic","colic ureteral"
 "d012133","respiratory paralysis","muscle paralyses respiratory","respiratory muscle paralysis","paralysis diaphragmatic"
-"d012135","respiratory sounds","respiratory sound","breathing sound","lung sound","stridor","rale","crackle","pleural rub","rhonchi","rhonchus","wheezing"
-"d003294","seizures febrile","febrile seizure","pyrexial seizure","pyrexial convulsion","febrile fit","fever convulsion","fever seizure","convulsion febrile","febrile convulsion seizure","seizure febrile simple","seizure febrile complex"
-"d012678","sensation disorders","sensation disorder","senses disorder special","sensory disorder"
+"d012135","respiratory sounds","breathing sound","lung sound","stridor","rale","crackle","pleural rub","rhonchi","rhonchus","wheezing"
+"d003294","seizures febrile","pyrexial seizure","pyrexial convulsion","febrile fit","fever convulsion","fever seizure","convulsion febrile","febrile convulsion seizure","seizure febrile simple","seizure febrile complex"
+"d012678","sensation disorders","senses disorder special","sensory disorder"
 "d020069","shoulder pain",
-"d012877","skin manifestations","manifestation skin"
-"d012892","sleep deprivation","sleep deprivation rem","fragmentation sleep","syndrome insufficient sleep"
-"d020886","somatosensory disorders","somatosensory disorder","sensation disorder somatic","sensation diminished pain","thermal sensation disorder","sense disorder position","proprioceptive disorder","impairment light touch sensation","sensation diminished pinprick"
-"d013064","speech disorders","cluttering","verbal fluency disorder","dyslalia","rhinolalia","aprosodia","aprosodic speech","dysglossia"
+"d012877","skin manifestations",
+"d012892","sleep deprivation","rem sleep deprivation","fragmentation sleep","syndrome insufficient sleep"
+"d020886","somatosensory disorders","sensation disorder somatic","pain sensation diminished","sensation disorder thermal","position sense disorder","proprioceptive disorder","impairment light touch sensation","pinprick sensation diminished"
+"d013064","speech disorders","verbal fluency disorder","dyslalia","rhinolalia","aprosodia","aprosodic speech","dysglossia"
 "d013226","status epilepticus","status epilepticus generalized","grand mal status epilepticus","status epilepticus generalized convulsive","non convulsive status epilepticus","status epilepticus subclinical","status epilepticus electrographic","simple partial status epilepticus","complex partial status epilepticus","petit mal status","absence status"
 "d057896","striae distensae","mark stretch"
 "d055955","susac syndrome","retinocochleocerebral vasculopathy","retinocochleocerebral vasculopathies"
 "d018614","sweating sickness","sudor anglicus","english sweating sickness"
-"d019462","syncope vasovagal","syncope vasovagal neurally mediated","syncope vasodepressor","neurally mediated faint","syncope neurocardiogenic","syncope neurogenic","neurocardiogenic syncope malignant","cerebral syncope","supine syncope"
-"d054160","systolic murmurs","murmur systolic","ejection murmur","systolic regurgitant murmur"
+"d019462","syncope vasovagal","syncope vasovagal neurally mediated","syncope vasodepressor","neurally mediated faint","syncope neurocardiogenic","syncope neurogenic","syncope malignant neurocardiogenic","cerebral syncope","supine syncope"
+"d054160","systolic murmurs","ejection murmur","systolic regurgitant murmur"
 "d000071057","tardive dyskinesia","tardive dystonia"
-"d013651","taste disorders","taste disorder","taste disorder posterior tongue","taste disorder primary","taste disorder primary bitter","taste metallic","taste disorder primary sweet","taste disorder secondary","taste disorder secondary bitter","taste disorder secondary salt","taste disorder secondary sweet","taste disorder anterior tongue","taste disorder primary salt"
+"d013651","taste disorders","taste disorder posterior tongue","taste disorder primary","taste disorder primary bitter","taste metallic","taste disorder primary sweet","taste disorder secondary","taste disorder secondary bitter","taste disorder secondary salt","taste disorder secondary sweet","taste disorder anterior tongue","taste disorder primary salt"
 "d014008","tinea pedis","athlete foot"
-"d015845","tonic pupil","adie pupil","pupillotonia","myotonic pupil","pupil neuropathic tonic","pupil local tonic"
+"d015845","tonic pupil","adie pupil","pupillotonia","myotonic pupil","tonic pupil neuropathic","pupil local tonic"
 "d014549","urinary incontinence",
-"d020924","urological manifestations","manifestation urological"
-"d052245","usher syndromes","syndrome usher","dystrophia retinae pigmentosa dysostosis syndrome","graefe usher syndrome","hallgren syndrome","retinitis pigmentosa deafness syndrome","syndrome deafness retinitis pigmentosa","usher syndrome type iii","usher syndrome type 3","usher syndrome type i","usher syndrome type 1a","retinitis pigmentosa and congenital deafness","usher syndrome type 1","usher syndrome type i french variety","usher syndrome type ii","usher syndrome type iid"
+"d020924","urological manifestations",
+"d052245","usher syndromes","dystrophia retinae pigmentosa dysostosis syndrome","graefe usher syndrome","hallgren syndrome","retinitis pigmentosa deafness syndrome","usher syndrome type iii","usher syndrome type 3","usher syndrome type i","usher syndrome type 1a","retinitis pigmentosa and congenital deafness","usher syndrome type 1","usher syndrome type i french variety","usher syndrome type ii","usher syndrome type iid"
 "d059265","visceral pain",
-"d014786","vision disorders","vision disorder","disorder visual","macropsia","visual impairment","micropsia","vision disability","disabilities vision","hemeralopia","day blindness","metamorphopsia"
+"d014786","vision disorders","disorder visual","macropsia","visual impairment","micropsia","vision disability","disabilities vision","hemeralopia","day blindness","metamorphopsia"
 "d015354","vision low","vision reduced","vision subnormal","vision diminished"
-"d014832","voice disorders","voice disorder","voice disturbance","voice fatigue","voice disorder neurologic"
+"d014832","voice disorders","voice disturbance","voice fatigue","voice disorder neurologic"
 "d014840","vomiting anticipatory",
 "d015430","weight gain",
 "d015431","weight loss","losses weight","weight reduction"
-"d017109","akathisia drug induced","akathisia drug induced","acathisia drug induced","pseudoakathisia","akathisia tardive"
-"d020270","alcohol withdrawal seizures","alcohol withdrawal seizure","alcohol related seizure","alcohol withdrawal induced seizure","alcoholic seizure","alcohol withdrawal induced major motor seizure","status epilepticus alcohol withdrawal induced"
+"d017109","akathisia drug induced","acathisia drug induced","pseudoakathisia","akathisia tardive"
+"d020270","alcohol withdrawal seizures","alcohol related seizure","alcohol withdrawal induced seizure","alcoholic seizure","alcohol withdrawal induced major motor seizure","status epilepticus alcohol withdrawal induced"
 "d000076042","alcoholic korsakoff syndrome","alcoholic wernicke korsakoff syndrome","alcohol induced korsakoff syndrome"
-"d055964","alien hand syndrome","syndrome anarchic hand"
+"d055964","alien hand syndrome","hand syndrome anarchic"
 "d020236","amnesia transient global","tga transient global amnesia"
 "d000788","angina pectoris variant","prinzmetal angina"
-"d018888","aphasia primary progressive","mesulam syndrome"
-"d001308","auditory perceptual disorders","auditory perceptual disorder","processing disorder auditory","psychoacoustical disorder","disorder acoustic perceptual","comprehension disorder auditory","inattention auditory"
-"d001832","body temperature changes","temperature change body"
-"d001836","body weight changes","weight change body"
-"d000077962","body weight trajectory","body weight trajectory","body weight trajectories","weight trajectory","trajectories weight","weight change trajectory","weight change trajectories","loss trajectories weight","loss trajectory weight","gain trajectories weight","gain trajectory weight"
-"d018437","brown sequard syndrome","brown sequard syndrome","hemiparaplegic syndrome","hemispinal cord syndrome","hemicord syndrome","brown sequard disease","spastic spinal monoplegia syndrome","brown sequard paralysis"
+"d018888","aphasia primary progressive","syndrome mesulam"
+"d001308","auditory perceptual disorders","auditory processing disorder","disorder psychoacoustical","disorder acoustic perceptual","comprehension disorder auditory","inattention auditory"
+"d001832","body temperature changes",
+"d001836","body weight changes",
+"d000077962","body weight trajectory","body weight trajectories","weight trajectory","trajectories weight","weight change trajectory","weight change trajectories","loss trajectories weight","loss trajectory weight","gain trajectories weight","gain trajectory weight"
+"d018437","brown sequard syndrome","hemiparaplegic syndrome","hemispinal cord syndrome","hemicord syndrome","brown sequard disease","spastic spinal monoplegia syndrome","brown sequard paralysis"
 "d016534","cardiac output high",
 "d002303","cardiac output low","low cardiac output syndrome"
-"d065634","cerebrospinal fluid leak","leakage cerebrospinal fluid","spinal cerebrospinal fluid leak","fluid drainage cerebrospinal","cerebrospinal fluid leak spontaneous","cerebrospinal fluid leakage spontaneous","spinal cerebrospinal fluid leak spontaneous","cerebrospinal fluid drainage spontaneous","cerebrospinal fluid leak post traumatic","cerebrospinal fluid drainage traumatic","spinal cerebrospinal fluid leak traumatic","cerebrospinal fluid leakage post traumatic","cerebrospinal fluid leakage traumatic","spinal cerebrospinal fluid leak post traumatic","cerebrospinal fluid drainage post traumatic","cerebrospinal fluid leak traumatic"
+"d065634","cerebrospinal fluid leak","fluid leakage cerebrospinal","spinal cerebrospinal fluid leak","cerebrospinal fluid drainage","cerebrospinal fluid leak spontaneous","cerebrospinal fluid leakage spontaneous","spinal cerebrospinal fluid leak spontaneous","cerebrospinal fluid drainage spontaneous","cerebrospinal fluid leak post traumatic","cerebrospinal fluid drainage traumatic","spinal cerebrospinal fluid leak traumatic","cerebrospinal fluid leakage post traumatic","cerebrospinal fluid leakage traumatic","spinal cerebrospinal fluid leak post traumatic","cerebrospinal fluid drainage post traumatic","cerebrospinal fluid leak traumatic"
 "d002558","cerebrospinal fluid otorrhea","cerebrospinal otorrhea","traumatic cerebrospinal fluid otorrhea","post traumatic otorrhea cerebrospinal fluid","spontaneous otorrhea cerebrospinal fluid","spontaneous cerebrospinal fluid otorrhea","otorrhea spontaneous cerebrospinal fluid"
 "d002559","cerebrospinal fluid rhinorrhea","csf rhinorrhea","cerebrospinal rhinorrhea","cerebrospinal fluid rhinorrhea post traumatic","post traumatic rhinorrhea cerebrospinal fluid","rhinorrhea cerebrospinal fluid traumatic","traumatic cerebrospinal fluid rhinorrhea","spontaneous cerebrospinal fluid rhinorrhea"
 "d000075562","charles bonnet syndrome",
-"d002639","cheyne stokes respiration","cheyne stokes respiration"
-"d003117","color vision defects","vision defect color","color vision deficiencies","deficiency color vision","blindness color","acquired color blindness","monochromatopsia","color blindness green","color blindness inherited","color blindness red","protan defect","color blindness red green","deutan defect","achromatopsia","color blindness blue","tritan defect"
-"d054062","deaf blind disorders","blindness deafness","vision and hearing loss","disorder blind deaf","disorder deaf blindness","deafness blindness prelingual","prelingual deafness blindnesses","disorder deaf mutism blind","disorder prelingual deaf blind","syndrome deaf blind"
-"d004409","dyskinesia drug induced","dyskinesia drug induced","dyskinesia medication induced"
+"d002639","cheyne stokes respiration",
+"d003117","color vision defects","color vision deficiencies","deficiency color vision","blindness color","acquired color blindness","monochromatopsia","color blindness green","color blindness inherited","color blindness red","protan defect","color blindness red green","deutan defect","achromatopsia","color blindness blue","tritan defect"
+"d054062","deaf blind disorders","vision and hearing loss","disorder blind deaf","deaf blindness disorder","prelingual deafness blindness","deafness blindnesses prelingual","deaf mutism blind disorder","deaf blind disorder prelingual","deaf blind syndrome"
+"d004409","dyskinesia drug induced","dyskinesia medication induced"
 "d017036","epilepsia partialis continua","kojewnikov epilepsy","kozhevnikov syndrome","kojevnikov epilepsy","kojewnikow syndrome","chronic progressive epilepsia partialis continua","kozhevnikow syndrome progressive variant","progressive variant of kozhevnikow syndrome"
 "d005183","failure to thrive",
-"d020233","gait disorders neurologic","gait disorder neurologic","locomotion disorder neurologic","ambulation disorder neurologic","gait dysfunction neurologic","duck gait","gait disorder sensorimotor","gait athetotic","gait broadened","foot gait drop","festinating gait","frontal gait","hemiplegic gait","hysterical gait","reeling gait","rigid gait","scissors gait","shuffling gait","spastic gait","stumbling gait","unsteady gait","widebased gait","marche a petit pas","rapid fatigue of gait","charcot gait"
+"d020233","gait disorders neurologic","locomotion disorder neurologic","ambulation disorder neurologic","gait dysfunction neurologic","duck gait","gait disorder sensorimotor","gait athetotic","gait broadened","foot gait drop","festinating gait","frontal gait","hemiplegic gait","hysterical gait","reeling gait","rigid gait","scissors gait","shuffling gait","gait spastic","gait stumbling","gait unsteady","gait widebased","marche a petit pas","rapid fatigue of gait","charcot gait"
 "d000078064","gestational weight gain","pregnancy weight gain","maternal weight gain","postpartum weight retention"
 "d006312","hearing loss bilateral","bilateral hearing losses","deafness bilateral"
 "d006313","hearing loss central","deafness neurosensory","deafness neurosensories","cortical deafness"
@@ -339,48 +339,48 @@
 "d003639","hearing loss sudden","deafness sudden"
 "d046088","hearing loss unilateral","deafness unilateral"
 "d020179","jet lag syndrome","time zone change syndrome","time zone syndrome","jet lag"
-"d007625","kearns sayre syndrome","cpeo with myopathy","cpeo with myopathies","cpeo with ragged red fibers","kearn sayre mitochondrial cytopathy","kearn syndrome","oculocraniosomatic syndrome","ophthalmoplegia plus syndrome","ophthalmoplegia pigmentary degeneration of retina and cardiomyopathy","ophthalmoplegia progressive external with ragged red fibers","chronic progressive external ophthalmoplegia with myopathy"
-"d007805","language development disorders","language development disorder","developmental disorder speech or language","language disorder developmental","delay speech","semantic pragmatic disorder","auditory processing disorder central","language delay"
-"d000080422","locked in syndrome","locked in syndrome","cerebromedullospinal disconnection","ventral pontine syndrome"
-"d017116","low back pain","lumbago","pain lower back","ache low back","backache low","postural low back pain","low back pain posterior compartment","low back pain recurrent","low back pain mechanical"
-"d000071896","medically unexplained symptoms","unexplained symptom medically","symptom somatic"
-"d058568","necrolytic migratory erythema","pseudoglucagonoma syndrome"
+"d007625","kearns sayre syndrome","cpeo with myopathies","cpeo with ragged red fibers","kearn sayre mitochondrial cytopathy","kearn syndrome","oculocraniosomatic syndrome","ophthalmoplegia plus syndrome","ophthalmoplegia pigmentary degeneration of retina and cardiomyopathy","ophthalmoplegia progressive external with ragged red fibers","chronic progressive external ophthalmoplegia with myopathy"
+"d007805","language development disorders","developmental disorder speech or language","language disorder developmental","delay speech","semantic pragmatic disorder","auditory processing disorder central","language delay"
+"d000080422","locked in syndrome","cerebromedullospinal disconnection","ventral pontine syndrome"
+"d017116","low back pain","lumbago","lower back pain","ache low back","backache low","postural low back pain","low back pain posterior compartment","low back pain recurrent","low back pain mechanical"
+"d000071896","medically unexplained symptoms","somatic symptom"
+"d058568","necrolytic migratory erythema","syndrome pseudoglucagonoma"
 "d000067329","obesity metabolically benign","obesity metabolically healthy"
-"d000079689","opioid induced constipation","opioid induced constipation","opiate induced constipation","syndrome narcotic bowel"
-"d059388","pelvic girdle pain","pubis dysfunction symphysis"
-"d018458","persistent vegetative state","pvs persistent vegetative state","unawareness state persistent","state permanent vegetative","state vegetative","post traumatic vegetative state","vegetative state post traumatic","state posttraumatic unawareness","post traumatic unawareness state","unawareness state post traumatic","post traumatic unawareness prolonged","prolonged post traumatic unawarenesses","state transient vegetative","state minimally conscious","post comatose unawareness state","unawareness state post comatose","state postcomatose unawareness"
-"d055958","piriformis muscle syndrome","piriformis syndrome"
-"d011695","purpura schoenlein henoch","purpura schoenlein henoch","anaphylactoid purpura","henoch purpura","purpura schonlein henoch","henoch schonlein purpura","purpura allergic","hemorrhagic vasculitis","purpura rheumatoid","hemorrhagica purpura","nonthrombocytopenic purpura","nonthrombopenic purpura"
-"d016553","purpura thrombocytopenic idiopathic","thrombocytopenic purpura immune","thrombocytopenia immune","werlhof disease","autoimmune thrombocytopenia","autoimmune thrombocytopenic purpura","purpura thrombocytopenic autoimmune"
-"d011697","purpura thrombotic thrombocytopenic","thrombotic thrombopenic purpura","moschcowitz disease","moschkowitz disease","congenital thrombotic thrombocytopenic purpura","schulman upshaw syndrome","upshaw factor deficiency of","microangiopathic hemolytic anemia congenital","microangiopathy familial thrombotic","thrombotic thrombocytopenic purpura familial","familial thrombotic thrombocytopenia purpura"
+"d000079689","opioid induced constipation","opiate induced constipation","narcotic bowel syndrome"
+"d059388","pelvic girdle pain","dysfunction symphysis pubis"
+"d018458","persistent vegetative state","pvs persistent vegetative state","state persistent unawareness","state permanent vegetative","state vegetative","post traumatic vegetative state","state posttraumatic unawareness","post traumatic unawareness state","post traumatic unawareness prolonged","prolonged post traumatic unawarenesses","state transient vegetative","state minimally conscious","post comatose unawareness state","state postcomatose unawareness"
+"d055958","piriformis muscle syndrome","syndrome piriformis"
+"d011695","purpura schoenlein henoch","anaphylactoid purpura","henoch purpura","purpura schonlein henoch","allergic purpura","vasculitis hemorrhagic","rheumatoid purpura","purpura hemorrhagica","purpura nonthrombocytopenic","purpura nonthrombopenic"
+"d016553","purpura thrombocytopenic idiopathic","purpura immune thrombocytopenic","thrombocytopenia immune","werlhof disease","autoimmune thrombocytopenia","autoimmune thrombocytopenic purpura"
+"d011697","purpura thrombotic thrombocytopenic","thrombopenic purpura thrombotic","moschcowitz disease","moschkowitz disease","congenital thrombotic thrombocytopenic purpura","schulman upshaw syndrome","upshaw factor deficiency of","microangiopathic hemolytic anemia congenital","microangiopathy familial thrombotic","thrombotic thrombocytopenic purpura familial","familial thrombotic thrombocytopenia purpura"
 "d012816","signs and symptoms",
-"d012893","sleep wake disorders","wake disorder sleep","syndrome subwakefullness","sleep disorder","neurogenic tachypnea sleep related","tachypnea sleep related neurogenic","syndrome long sleeper","sleeper syndrome short","phenotype short sleep"
+"d012893","sleep wake disorders","syndrome subwakefullness","disorder sleep","neurogenic tachypnea sleep related","sleeper syndrome long","sleeper syndrome short","phenotype short sleep"
 "d056124","slit ventricle syndrome",
 "d018489","space motion sickness","syndrome space adaptation"
-"d000080888","specific language disorder","language impairment specific"
+"d000080888","specific language disorder","impairment specific language"
 "d013494","supranuclear palsy progressive","progressive supranuclear palsies","supranuclear palsy progressive 1","steele richardson olszewski disease","steele richardson olszewski syndrome","richardson syndrome","progressive supranuclear ophthalmoplegia"
-"d000076082","travel related illness","travel related illness","illnesses travel related","travel related health problem","disease travel related","sickness travel","travel sicknesses","travel associated infection","travel related infection","infectious disease travel related","infectious disease travel associated","sickness travel related","travel related sicknesses"
+"d000076082","travel related illness","illnesses travel related","health problem travel related","travel related disease","travel sickness","sicknesses travel","infection travel associated","infection travel related","disease travel related infectious","disease travel associated infectious","travel related sickness","sicknesses travel related"
 "d001750","urinary bladder neurogenic","bladder neurogenic","urinary bladder neurogenic dysfunction","neurogenic dysfunction of the urinary bladder","neurogenic urinary bladder disorder","neuropathic bladder","bladder disorder neurogenic","urinary bladder neurogenesis","bladder neurogenesis","neurogenic urinary bladder atonic","neurogenic bladder atonic","neurogenic urinary bladder spastic","neurogenic bladder spastic","neurogenic urinary bladder uninhibited","neurogenic bladder uninhibited"
 "d053201","urinary bladder overactive","overactive bladder","overactive detrusor","overactive detrusor function"
 "d000077295","urinary bladder underactive","underactive bladder","detrusor underactivity","underactive detrusor","underactive detrusor function","hypotonic bladder"
 "d014550","urinary incontinence stress",
 "d053202","urinary incontinence urge","urinary reflex incontinence","urge incontinence"
-"d014826","vocal cord paralysis","paralyses vocal cord","vocal cord palsy","palsies vocal cord","vocal fold palsy","palsies vocal fold","total vocal cord paralysis","bilateral vocal cord paresis","congenital vocal cord palsy","unilateral vocal cord paresis","laryngeal paralysis","laryngeal paralyses","unilateral vocal cord paralysis","pareses vocal cord","paresis vocal cord","acquired vocal cord palsy","laryngeal nerve palsy recurrent"
-"d014884","waterhouse friderichsen syndrome","waterhouse friderichsen syndrome","purpura fulminans waterhouse friderichsen syndrome","waterhouse friederichsen syndrome","meningococcal waterhouse friderichsen syndrome","fulminant meningococcal sepsis with adrenal apoplexy","meningococcal hemorrhagic adrenalitis","meningococcal hemorrhagic adrenalitides"
+"d014826","vocal cord paralysis","paralyses vocal cord","vocal cord palsy","palsies vocal cord","vocal fold palsy","palsies vocal fold","total vocal cord paralysis","bilateral vocal cord paresis","congenital vocal cord palsy","unilateral vocal cord paresis","laryngeal paralysis","laryngeal paralyses","unilateral vocal cord paralysis","vocal cord paresis","pareses vocal cord","acquired vocal cord palsy","laryngeal nerve palsy recurrent"
+"d014884","waterhouse friderichsen syndrome","purpura fulminans waterhouse friderichsen syndrome","waterhouse friederichsen syndrome","meningococcal waterhouse friderichsen syndrome","fulminant meningococcal sepsis with adrenal apoplexy","meningococcal hemorrhagic adrenalitis","meningococcal hemorrhagic adrenalitides"
 "d000071064","alert fatigue health personnel",
 "d062026","alice in wonderland syndrome",
-"d065635","benign paroxysmal positional vertigo","vestibulopathy familial","familial vestibulopathies","familial benign recurrent vertigo","benign recurrent vertigo"
-"d019080","cafe au lait spots","cafe au lait spot"
+"d065635","benign paroxysmal positional vertigo","vestibulopathy familial","familial vestibulopathies","familial benign recurrent vertigo","vertigo benign recurrent"
+"d019080","cafe au lait spots",
 "d055111","failed back surgery syndrome",
 "d005335","fever of unknown origin","unknown origin fever"
-"d006316","hearing loss high frequency","hearing loss high frequency"
-"d006317","hearing loss noise induced","hearing loss noise induced","acoustic trauma"
+"d006316","hearing loss high frequency",
+"d006317","hearing loss noise induced","acoustic trauma"
 "d059411","lower urinary tract symptoms",
 "d017246","ophthalmoplegia chronic progressive external","graefe disease","ocular myopathy mitochondrial","ocular myopathy of von graefe fuchs","progressive external ophthalmoplegia","cpeo","ocular muscular dystrophy","muscular dystrophies ocular"
 "d020250","postoperative nausea and vomiting","ponv","vomiting postoperative","postoperative emesis","emeses postoperative","postoperative nausea"
-"d057178","primary progressive nonfluent aphasia","ppa syndrome","non fluent primary progressive aphasia","nonfluent aphasia progressive"
+"d057178","primary progressive nonfluent aphasia","ppa syndrome","non fluent primary progressive aphasia","progressive nonfluent aphasia"
 "d012817","signs and symptoms digestive",
 "d012818","signs and symptoms respiratory",
-"d046089","hearing loss mixed conductive sensorineural","hearing loss mixed conductive sensorineural","loss mixed hearing","losses mixed hearing"
-"d057768","infantile apparent life threatening event","infantile apparent life threatening event","idiopathic apparent life threatening event"
+"d046089","hearing loss mixed conductive sensorineural","loss mixed hearing","losses mixed hearing"
+"d057768","infantile apparent life threatening event","idiopathic apparent life threatening event"
 "d059245","transient tachypnea of the newborn","transient tachypnea of newborn","newborn transient tachypnea"

@@ -1,4 +1,4 @@
-import fs from "fs"
+import fs, { write } from "fs"
 import path from "path"
 import getBranchEntries from "./get_branch_entries"
 import filterPluralForms from "./utilities/filter_plural_forms"
@@ -12,11 +12,12 @@ interface IOptions {
 }
 
 const getEntriesAtBranches = (options: IOptions) => {
-    const { branches, excludeBranches, outputFilePath } = options
+    const { branches, excludeBranches = [], outputFilePath } = options
     const writeStream = fs.createWriteStream(outputFilePath)
 
     const parsedEntries = []
     const repeatingEntriesIDMap = {}
+    const extract = extractVariations(outputFilePath)
 
     branches.forEach((branchID) => {
         const meshEntries = getBranchEntries(branchID)
@@ -25,7 +26,7 @@ const getEntriesAtBranches = (options: IOptions) => {
             // the first item in the terms is the name
             const { id, name, terms, treeList } = meshEntry
 
-            if (entryIsFromExcludedBranch(excludeBranches, treeList)) {
+            if ((excludeBranches.length > 0) && entryIsFromExcludedBranch(excludeBranches, treeList)) {
                 return
             }
 
@@ -37,6 +38,8 @@ const getEntriesAtBranches = (options: IOptions) => {
                     filterPluralForms(
                         removePermutations(
                             sanitizeTerms(terms))))
+
+                extract(sanitizedTerms)
 
                 parsedEntries.push({
                     id,
@@ -66,17 +69,43 @@ const getEntriesAtBranches = (options: IOptions) => {
 
 }
 
-const extractVariations = (terms: string[], outputFilePath: string) => {
+const extractVariations = (outputFilePath: string) => {
     const outputFileName = path.basename(outputFilePath)
     const outFolder = path.dirname(outputFilePath)
     const outFilePath = `${outFolder}/${outputFileName}_variations.csv`
     const writeStream = fs.createWriteStream(outFilePath)
 
-    terms.map((term: string) => {
-        if (term) {
-            // check for dys a begining and map it
+    return (terms: string[]) => {
+        const words = terms
+            .join(" ")
+            .split(" ")
+
+        const map = words.reduce((accumulator, word: string) => {
+            const match = word.match(/^(dys|a)/)
+            if (match !== null) {
+                const suffix = match[ 0 ]
+                const root = (suffix === "dys") ? word.substring(3) : word.substring(1)
+
+                if (accumulator.hasOwnProperty(root)) {
+                    accumulator[ root ].add(word)
+                } else {
+                    accumulator[ root ] = new Set().add(word)
+                }
+
+            }
+            return accumulator
+        }, {})
+
+        const res = Object.values<Set<string>>(map).filter((val: Set<string>) => val.size === 2)
+        if (res.length > 0) {
+            res.forEach((set) => {
+                writeStream.write(`${Array.from(set).join(",")}\n`)
+            })
         }
-    })
+    }
+
+
+
 }
 
 const entryIsFromExcludedBranch = (excludedBranches: string[], entryTreeList: string[]) => {

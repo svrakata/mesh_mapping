@@ -3,6 +3,9 @@ import fs from "fs"
 import path from "path"
 
 import matchEntryToMeSH from "./match_entry_to_mesh"
+import filterPluralForms from "./utilities/filter_plural_forms"
+import removePermutations from "./utilities/remove_permutations"
+import removeRepeatingElements from "./utilities/remove_repeating_elements"
 
 
 /*
@@ -27,8 +30,9 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
         const filePath = path.resolve(__dirname, dataFolderPath, file)
         const fileData = fs.readFileSync(filePath).toString()
         const csvParse = parser(fileData, parserOptions)
+        const parsedEntries = []
 
-        const matchedMap = {}
+        const matchedMap = { }
         const entries = []
 
         let matchedCount = 0
@@ -72,18 +76,47 @@ const matchCSVToMeSH = (dataFolderPath: string, outputFolderPath: string) => {
             const outputfileName = `${path.parse(file).name}.csv`
             const outputfilePath = path.resolve(__dirname, outputFolderPath, outputfileName)
             const writeStream = fs.createWriteStream(outputfilePath)
-            const outputCSVHeader = `"meshID","name","terms","matched"\n`
+            const outputCSVHeader = `"meshID","name","terms"\n`
 
             writeStream.write(outputCSVHeader)
 
             entries.forEach((entry) => {
                 const { id, name, terms, matched } = entry
-                writeStream.write(`"${id}","${name}","${terms.join(";")}","${matched}"\n`)
+                const sanitizedTerms = removeRepeatingElements(
+                    filterPluralForms(
+                        removePermutations(
+                            sanitizeTerms(terms))))
+
+                parsedEntries.push({
+                    id,
+                    name: sanitizeString(name),
+                    terms: sanitizedTerms
+                        .slice(1)
+                        .map((term: string) => `"${term}"`),
+                })
             })
+
+
+            parsedEntries.sort((prev, next) => {
+                const lengthDifference = prev.name.split(" ").length - next.name.split(" ").length
+                if (lengthDifference === 0) {
+                    return prev.name.localeCompare(next.name)
+                } else {
+                    return lengthDifference
+                }
+            })
+
+            parsedEntries.forEach(
+                // tslint:disable-next-line: max-line-length
+                ({ id, name, terms }) => writeStream.write(`"${id}","${name}",${terms.length ? terms.join(",") : ""}\n`),
+            )
         })
 
     })
 
 }
+
+const sanitizeTerms = (terms: string[]) => (terms).map((term) => sanitizeString(term))
+const sanitizeString = (str: string) => str.replace(/\-/gi, " ")
 
 export default matchCSVToMeSH

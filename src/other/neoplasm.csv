@@ -1,0 +1,694 @@
+"d049309","acanthoma","acanthoma pilar sheath","acanthoma clear cell","acanthoma degos"
+"d018250","acrospiroma","spiradenoma","hidradenoma","clear cell hidradrenoma","cystic hidradenoma","solid cystic hidradenoma","acrospiroma eccrine","eccrine spiradenoma","nodular hidradrenoma"
+"d050398","adamantinoma",
+"d000230","adenocarcinoma","adenoma malignant","carcinoma granular cell","adenocarcinoma granular cell","adenocarcinoma tubular","carcinoma tubular","carcinoma cribriform","adenocarcinoma basal cell","adenocarcinoma oxyphilic"
+"d000232","adenofibroma","fibroadenosis"
+"d000235","adenolymphoma","warthin tumor","cystadenoma lymphomatosum papillary"
+"d000236","adenoma","adenoma follicular","adenoma trabecular","adenoma monomorphic","adenoma papillary","adenoma basal cell","adenoma microcystic"
+"d055331","adenomyoepithelioma",
+"d018194","adenomyoma",
+"d018195","adenosarcoma",
+"d000564","ameloblastoma",
+"d000708","anaplasia",
+"d018322","angiofibroma",
+"d000794","angiokeratoma",
+"d018206","angiolipoma",
+"d018207","angiomyolipoma",
+"d018229","angiomyoma","leiomyoma vascular","angioleiomyoma"
+"d001079","apudoma",
+"d001254","astrocytoma","astroglioma","glioma astrocytic","astrocytoma grade i","astrocytoma grade ii","astrocytoma protoplasmic","astrocytoma subependymal giant cell","pilocytic astrocytoma","childhood cerebral astrocytoma","astrocytoma fibrillary","astrocytoma gemistocytic","astrocytoma intracranial","astrocytoma juvenile pilocytic","mixed oligoastrocytoma","astrocytoma anaplastic","grade iii astrocytoma","astrocytoma cerebral"
+"d001935","branchioma","branchial cleft cyst","cyst branchial"
+"d063646","carcinogenesis","carcinogeneses","tumorigenesis","tumorigeneses","oncogenesis","oncogeneses"
+"d002277","carcinoma","neoplasm malignant epithelial","epithelial tumor malignant","epithelioma","carcinoma undifferentiated","carcinoma anaplastic","carcinoma spindle cell","carcinomatosis","carcinomatoses"
+"d002296","carcinosarcoma",
+"d002485","cementoma","cemento ossifying fibroma","fibrous dysplasia periapical","cementifying fibroma of maxilla","maxilla cementifying fibroma","ossifying fibroma of maxilla","maxilla ossifying fibroma","maxillary cementifying fibroma","cementifying fibroma of mandible","mandible cementifying fibroma","ossifying fibroma of mandible","mandible ossifying fibroma","mandibular cementifying fibroma"
+"d017043","chalazion","chalazia","meibomian cyst"
+"d018281","cholangiocarcinoma","cholangiocellular carcinoma","extrahepatic cholangiocarcinoma","intrahepatic cholangiocarcinoma"
+"d002804","chondroblastoma",
+"d002812","chondroma","enchondroma"
+"d018210","chondromatosis","chondromatoses"
+"d002813","chondrosarcoma",
+"d002817","chordoma",
+"d002822","choriocarcinoma",
+"d003043","cocarcinogenesis","cocarcinogeneses"
+"d003397","craniopharyngioma","rathke pouch tumor","neoplasm rathke cleft","craniopharyngioma papillary","craniopharyngioma child","craniopharyngioma adamantinous","craniopharyngioma adult"
+"d003536","cystadenocarcinoma",
+"d062625","cystadenofibroma","clear cell adenofibroma","borderline clear cell adenofibroma","borderline cystadenofibroma","benign clear cell adenofibroma","benign cystadenofibroma"
+"d003537","cystadenoma",
+"d003560","cysts",
+"d018223","dermatofibrosarcoma","darier hoffmann tumor","dermatofibrosarcoma protuberan","darier ferrand tumor","protuberan metastatic dermatofibrosarcoma","fs dfsp","protuberan fibrosarcomatous dermatofibrosarcoma","fibrosarcomatous dfsp","cell fibroblastoma giant","dermatofibrosarcoma protuberan giant","protuberan giant dermatofibrosarcoma","dfsp juvenile","protuberan familial dermatofibrosarcoma","protuberan myxoid dermatofibrosarcoma","myxoid dfsp","dermatofibrosarcoma protuberan pigmented","dfsp pigmented","bednar tumor"
+"d004407","dysgerminoma","disgerminoma"
+"d004806","ependymoma","ependymoma papillary","ependymoma myxopapillary","anaplastic ependymoma","cellular ependymoma","clear cell ependymoma"
+"d004919","erythroplasia",
+"d018226","fibroadenoma",
+"d005350","fibroma","myxofibroma","fibromyxoma","fibromatosis","fibromatoses"
+"d005354","fibrosarcoma",
+"d018303","ganglioglioma","ganglioglioma intracranial","ganglioglioma malignant","ganglioglioma benign"
+"d018305","ganglioneuroblastoma",
+"d005729","ganglioneuroma","gangliocytoma"
+"d015408","gastrinoma","islet cell tumor ulcerogenic","gastrin producing tumor"
+"d018237","germinoma",
+"d005909","glioblastoma","astrocytoma grade iv","glioblastoma multiforme","giant cell glioblastoma"
+"d005910","glioma","glial cell tumor","mixed glioma","malignant glioma"
+"d018316","gliosarcoma","glioblastoma with sarcomatous component","sarcomatous glioma"
+"d005935","glucagonoma","alpha cell tumor","glucagonoma syndrome","adenoma alpha cell"
+"d018238","gonadoblastoma",
+"d006222","hamartoma",
+"d018325","hemangioblastoma","hemangioblastoma multiple"
+"d006390","hemangioendothelioma","endothelioma vascular","hemangio endothelioma"
+"d006391","hemangioma","hemangioma intramuscular","hemangioma histiocytoid","angioma","chorioangioma","chorangioma"
+"d006393","hemangiopericytoma",
+"d006394","hemangiosarcoma","angiosarcoma"
+"d018197","hepatoblastoma",
+"d018251","hidrocystoma",
+"d051642","histiocytoma",
+"d007340","insulinoma","adenoma beta cell","insuloma","beta cell tumor"
+"d007889","leiomyoma","fibroid tumor","fibromyoma","fibroid","fibroid uterus","fibroma uterine","fibroid uterine","leiomyoma uterine"
+"d018231","leiomyomatosis","leiomyomatoses"
+"d007890","leiomyosarcoma","leiomyosarcoma epithelioid","leiomyosarcoma myxoid"
+"d007938","leukemia","leucocythaemia","leucocythemia"
+"d007971","leukoplakia","lesion leukoplakic","leukokeratosis","leukokeratoses"
+"d062689","lipoblastoma","lipoblastomatosis","lipoblastomatoses"
+"d008067","lipoma","lipomata","fatty tumor","lipomatosis multiple","hibernoma","lipoma pleomorphic","atypical lipoma"
+"d008080","liposarcoma","liposarcoma dedifferentiated","liposarcoma pleomorphic","well differentiated liposarcoma","atypical lipomatous tumor"
+"d018311","luteoma","luteinoma","pregnancy luteoma","gestational luteoma","luteoma of pregnancy"
+"d018192","lymphangioleiomyomatosis","lymphangioleiomyomatoses","lymphangiomyomatosis","lymphangiomyomatoses"
+"d008202","lymphangioma","lymphangioendothelioma","endothelioma lymphatic","lymphangioma cavernous"
+"d008203","lymphangiomyoma","lymphangioleiomyoma"
+"d008204","lymphangiosarcoma","lymphangioendothelioma malignant"
+"d008210","lymphocele","lymphocoele","cyst lymphatic"
+"d008223","lymphoma","sarcoma germinoblastic","reticulolymphosarcoma","germinoblastoma","lymphoma malignant"
+"d034801","mastocytoma","mastocytoma benign","extracutaneous mastocytoma"
+"d008415","mastocytosis","mastocytoses","mast cell activation syndrome","mast cell activation disease","mast cell disease"
+"d008527","medulloblastoma","melanocytic medulloblastoma","medulloblastoma childhood","medullomyoblastoma","arachnoidal cerebellar sarcoma circumscribed","medulloblastoma desmoplastic","medulloblastoma adult"
+"d008545","melanoma","malignant melanoma"
+"d008579","meningioma","xanthomatous meningioma","angioblastic meningioma","angiomatous meningioma","clear cell meningioma","fibrous meningioma","hemangioblastic meningioma","hemangiopericytic meningioma","intracranial meningioma","intraorbital meningioma","intraventricular meningioma","malignant meningioma","meningioma multiple","meningiomatosis","meningiomatoses","meningotheliomatous meningioma","microcystic meningioma","olfactory groove meningioma","meningioma papillary","meningioma parasagittal","meningioma posterior fossa","meningioma psammomatous","meningioma secretory","meningioma sphenoid wing","meningioma spinal","meningioma transitional","meningioma benign","convexity meningioma cerebral"
+"d008637","mesenchymoma",
+"d008649","mesonephroma",
+"d008654","mesothelioma",
+"d009078","mucocele",
+"d018209","myelolipoma",
+"d009208","myoepithelioma","myoepithelial tumor"
+"d047708","myofibroma",
+"d018224","myofibromatosis","myofibromatoses"
+"d009214","myoma",
+"d000077777","myopericytoma",
+"d009217","myosarcoma",
+"d009232","myxoma","angiomyxoma"
+"d009236","myxosarcoma",
+"d009369","neoplasms","neoplasm","tumor","cancer","malignancy","malignancies","malignant neoplasm","benign neoplasm"
+"d009442","neurilemmoma","schwannoma","neurilemoma","neurinoma","schwannomatosis plexiform","plexiform schwannomatoses"
+"d009447","neuroblastoma",
+"d018306","neurocytoma","neurocytoma central"
+"d009455","neurofibroma",
+"d017253","neurofibromatoses","neurofibromatosis","neurofibromatosis syndrome","multiple neurofibroma","neurofibromatosis 3","neurofibromatosis type 3"
+"d018319","neurofibrosarcoma","sarcoma neurogenic","neurilemmosarcoma","mpnst","malignant neurilemmoma","malignant neurilemoma","schwannoma malignant","malignant peripheral nerve sheath tumor"
+"d009463","neuroma",
+"d018321","neurothekeoma","neurothecoma","neurotheceoma","myxoma nerve sheath"
+"d009506","nevus","skin mole","nevi"
+"d009810","odontoma","fibroodontoma","fibro odontoma","odontoma compound","fibro odontoma ameloblastic"
+"d009837","oligodendroglioma","mixed oligodendroglioma astrocytoma","mixed oligodendroglioma ependymoma","oligodendroglioma adult","oligodendroglioma childhood","oligodendroglioma well differentiated","anaplastic oligodendroglioma","oligodendroblastoma"
+"d018215","osteoblastoma","osteoma giant osteoid"
+"d015831","osteochondroma","exostosis osteocartilaginous","exostoses osteocartilaginous","chondrosteoma","exostosis cartilaginous","cartilaginous exostoses"
+"d018216","osteochondromatosis","osteochondromatoses"
+"d010016","osteoma",
+"d012516","osteosarcoma","osteosarcoma tumor","sarcoma osteogenic"
+"d010212","papilloma","papilloma squamous cell","papillomatosis","papillomatoses"
+"d010235","paraganglioma","paraganglioma gangliocytic","paragangliomata"
+"d010673","pheochromocytoma","pheochromocytoma extra adrenal"
+"d018296","pilomatrixoma","benign pilomatrixoma","pilomatricoma","epithelioma calcificans of malherbe","malherbe calcifying epithelioma","benign pilomatricoma","calcifying epithelioma of malherbe"
+"d010871","pinealoma","pineal gland tumor","pineal parenchymal tumor","pineal tumor","neoplasm pineal","pineoblastoma","mixed pineocytoma pineoblastoma","pinealocytoma","pineocytoma"
+"d010954","plasmacytoma","plasmocytoma","plasma cell tumor"
+"d057091","poroma","poromatosis","poromatoses","syringoacanthoma","apocrine poroma","hidracanthoma simplex","intraepidermal poroma","tumor dermal duct","syringofibroadenoma","eccrine poroma"
+"d011289","preleukemia",
+"d015175","prolactinoma","lactotroph adenoma","prolactinoma familial","prl secreting pituitary adenoma","prolactin producing pituitary adenoma","prolactin secreting pituitary adenoma","microprolactinoma","macroprolactinoma"
+"d011900","ranula",
+"d012175","retinoblastoma","neuroblastoma retinal","glioma retinal","eye cancer retinoblastoma","retinal glioblastoma","retinoblastoma sporadic","retinoblastoma familial","retinoblastoma hereditary"
+"d012207","rhabdomyoma",
+"d012208","rhabdomyosarcoma",
+"d012509","sarcoma","sarcoma soft tissue","sarcoma epithelioid","sarcoma spindle cell"
+"d018239","seminoma",
+"d013005","somatostatinoma",
+"d018252","syringoma",
+"d018243","teratocarcinoma",
+"d013724","teratoma","dysembryoma","teratoid tumor","teratoma benign","teratoma mature","teratoma cystic","teratoma malignant","teratoma immature"
+"d013798","thecoma","theca cell tumor"
+"d013945","thymoma","carcinoma thymic"
+"d003969","vipoma","diarrheogenic tumor","pancreatic vipoma","vasoactive intestinal peptide producing tumor","vip secreting tumor vipoma","diarrheogenic islet cell tumor","vasoactive intestinal peptide vip tumor","pancreatic cholera","vipoma syndrome","watery diarrhea syndrome","watery diarrhea hypokalemia and achlorhydria syndrome","wdha","wdhh","wdha syndrome","verner morrison syndrome","watery diarrhea with hypokalemic alkalosis"
+"d000008","abdominal neoplasms",
+"d018263","adenocarcinoma follicular","carcinoma follicular thyroid"
+"d002288","adenocarcinoma mucinous","carcinoma colloid","carcinoma mucinous"
+"d000231","adenocarcinoma papillary",
+"d002293","adenocarcinoma scirrhous","carcinoma scirrhous"
+"d018266","adenocarcinoma sebaceous",
+"d000239","adenoma acidophil","adenoma eosinophil","adenoma eosinophilic","adenoma acidophilic"
+"d000237","adenoma basophil","adenoma basophilic"
+"d000238","adenoma chromophobe",
+"d018249","adenoma oxyphilic","oncocytoma","hurthle cell tumor","huerthle cell tumor"
+"d008949","adenoma pleomorphic","salivary gland tumor mixed","syringoma chondroid"
+"d018253","adenoma villous",
+"d018254","adenomatoid tumor",
+"d018255","adenomatosis pulmonary","adenomatoses pulmonary"
+"d018256","adenomatous polyps",
+"d018246","adrenocortical adenoma","adenoma adrenal cortical","conn adenoma","conn disease"
+"d018268","adrenocortical carcinoma","carcinoma adrenal cortical"
+"d001005","anus neoplasms","anus neoplasm","anal cancer","cancer of the anus","cancer of anus","anus cancer"
+"d001063","appendiceal neoplasms","appendiceal cancer","cancer of the appendix","appendix cancer","cancer of appendix"
+"d016080","arachnoid cysts","cyst leptomeningeal","arachnoid diverticula","intracranial arachnoid cyst"
+"d001353","avian leukosis","avian leukoses"
+"d001471","barrett esophagus","barrett metaplasia","barrett syndrome","barrett epithelium"
+"d001752","blast crisis","blast crises","blast phase"
+"d001845","bone cysts","cyst solitary","cyst subchondral","intraosseous ganglion","intra osseous ganglion","intra osseous ganglia","ganglia intraosseous"
+"d001859","bone neoplasms","bone cancer","cancer of the bone","cancer of bone"
+"d001913","bowens disease",
+"d001932","brain neoplasms","brain tumor","brain cancer","brain malignant neoplasm","cancer of brain","cancer of the brain","malignant brain neoplasm","intracranial neoplasm","brain tumor recurrent","benign neoplasm brain","brain tumor primary","brain neoplasm primary"
+"d047688","breast cyst",
+"d001943","breast neoplasms","breast tumor","breast cancer","mammary cancer","malignant neoplasm of breast","breast malignant neoplasm","malignant tumor of breast","breast malignant tumor","cancer of breast","cancer of the breast","mammary carcinoma human","human mammary neoplasm","carcinoma breast"
+"d001948","brenner tumor","ovarian brenner tumor","brenner tumor of ovary","ovary brenner tumor","malignant brenner tumor","proliferative brenner tumor","benign brenner tumor"
+"d001984","bronchial neoplasms",
+"d001994","bronchogenic cyst","bronchial cyst"
+"d002051","burkitt lymphoma","leukemia lymphoblastic burkitt type","burkitt tumor","burkitt leukemia","burkitt cell leukemia","l3 lymphocytic leukemia","african lymphoma"
+"d002276","carcinoid tumor","carcinoid","carcinoid goblet cell","argentaffinoma"
+"d018196","carcinoma adenosquamous",
+"d002281","carcinoma basosquamous",
+"d002283","carcinoma bronchogenic","carcinoma bronchial"
+"d044584","carcinoma ductal",
+"d018236","carcinoma embryonal",
+"d018269","carcinoma endometrioid","adenocarcinoma endometrioid"
+"d006528","carcinoma hepatocellular","liver cell carcinoma adult","liver cancer adult","carcinoma liver cell","hepatoma"
+"d018275","carcinoma lobular",
+"d018276","carcinoma medullary",
+"d018277","carcinoma mucoepidermoid",
+"d018278","carcinoma neuroendocrine",
+"d002291","carcinoma papillary",
+"d018289","carcinoma verrucous",
+"d056733","carney complex","carney syndrome","lamb syndrome","name syndrome","lamb   lentigines atrial myxoma mucocutaneous myoma blue nevus syndrome","nevi atrial myxoma skin myxoma ephelides syndrome","carney myxoma endocrine complex","myxoma spotty pigmentation and endocrine overactivity","carney complex type 1","carney complex type i","carney complex type 2","carney myxoma endocrine complex type ii","carney complex type ii"
+"d002430","cecal neoplasms","cancer of cecum","cecal cancer","cancer of the cecum"
+"d002528","cerebellar neoplasms","cerebellar neoplasm","cerebellar neoplasm primary","primary neoplasm cerebellum","neoplasm benign cerebellar","cerebellar cancer","cancer cerebellar","malignant cerebellar neoplasm"
+"d015529","choledochal cyst","congenital choledochal cyst","duct cyst bile","choledochocele","choledochal cyst type ii","choledochal diverticulum","choledochal cyst diverticulum","congenital biliary dilatation","choledochal cyst type iv","multiple choledochal cyst","choledochal cyst type v","cyst intrahepatic choledochal","choledochal cyst type i","common bile duct cyst","choledochal cyst type iii"
+"d018211","chondrosarcoma mesenchymal",
+"d002830","choroid neoplasms","choroidal neoplasm"
+"d056364","colloid cysts",
+"d003110","colonic neoplasms","colon neoplasm","cancer of colon","cancer of the colon","colonic cancer","colon cancer"
+"d015179","colorectal neoplasms","colorectal carcinoma","colorectal cancer","colorectal tumor"
+"d058617","composite lymphoma",
+"d003230","conjunctival neoplasms",
+"d018282","cystadenocarcinoma mucinous",
+"d018283","cystadenocarcinoma papillary",
+"d018284","cystadenocarcinoma serous",
+"d018291","cystadenoma mucinous",
+"d018292","cystadenoma papillary",
+"d018293","cystadenoma serous",
+"d003803","dentigerous cyst",
+"d003884","dermoid cyst","dermoid"
+"d004379","duodenal neoplasms","duodenal cancer","cancer of the duodenum","cancer of duodenum","duodenum cancer"
+"d004387","dupuytren contracture","fibromatosis palmar","dupuytren disease"
+"d004428","ear neoplasms","ear auricle neoplasm","cancer of ear","ear cancer","cancer of the ear","cancer of ear auricle","ear auricle cancer","auricular cancer"
+"d057090","eccrine porocarcinoma","malignant eccrine poroma"
+"d016889","endometrial neoplasms","endometrial carcinoma","endometrial cancer","endometrium cancer","cancer of the endometrium","carcinoma of endometrium","endometrium carcinoma","cancer of endometrium"
+"d004814","epidermal cyst","sebaceous cyst","epidermoid cyst","pilar cyst"
+"d015174","epidural neoplasms","epidural tumor","epidural neoplasm malignant"
+"d004934","esophageal cyst",
+"d004938","esophageal neoplasms","esophagus neoplasm","cancer of esophagus","cancer of the esophagus","esophagus cancer","esophageal cancer"
+"d018304","esthesioneuroblastoma olfactory","esthesioneuroblastoma paranasal sinus nasal cavity","neuroblastoma olfactory","esthesioneuroblastoma","aesthesioneuroblastoma"
+"d000079822","extranodal extension","extracapsular extension","extranodal tumor deposit","tumor deposit"
+"d005134","eye neoplasms","cancer of eye","cancer of the eye","eye cancer"
+"d005142","eyelid neoplasms",
+"d005153","facial neoplasms",
+"d005266","femoral neoplasms",
+"d018220","fibroma desmoplastic","desmoplastic fibroblastoma","collagenous fibroma"
+"d018214","fibroma ossifying",
+"d018221","fibromatosis abdominal","abdominal fibromatoses"
+"d018222","fibromatosis aggressive","aggressive fibromatoses","desmoid"
+"d000071380","fibromatosis plantar","ledderhose disease"
+"d005497","follicular cyst",
+"d005706","gallbladder neoplasms","cancer of gallbladder","gallbladder cancer","gall bladder cancer","cancer of the gallbladder"
+"d045888","ganglion cysts","ganglion","myxoid cyst","cyst ganglionic"
+"d005736","gardner syndrome",
+"d005770","gastrointestinal neoplasms","cancer of gastrointestinal tract","gastrointestinal tract cancer","cancer of the gastrointestinal tract","gastrointestinal cancer"
+"d005887","gingival neoplasms","congenital epulides","epulis congenital"
+"d018315","glioma subependymal","subependymal astrocytoma","subependymoma","subependymal gliosis","glioses subependymal","subependymal astrocytoma adult"
+"d005918","glomus tumor","glomangioma"
+"d006338","heart neoplasms","cardiac neoplasm","cardiac tumor","myocardial tumor rhabdomyomas and fibromas","cardiac carcinoma","heart cancer","cardiac cancer","heart tumor"
+"d018323","hemangioendothelioma epithelioid",
+"d018324","hemangioma capillary",
+"d006392","hemangioma cavernous","hemangioma strawberry","angioma cavernous"
+"d019337","hematologic neoplasms","hematologic neoplasm","hematological neoplasm","malignancies hematologic","hematological malignancies","hematological malignancy","hematopoietic neoplasm","hematopoietic malignancies","hematopoietic malignancy"
+"d054747","histiocytic sarcoma","true malignant histiocytosis","true malignant histiocytoses","histiocytic lymphoma true","histiocytoses malignant","malignant histiocytosis"
+"d006689","hodgkin disease","lymphogranuloma malignant","hodgkin lymphoma","granuloma hodgkin","granuloma malignant","hodgkin lymphoma adult"
+"d006828","hydatidiform mole","pregnancy molar","molar pregnancies","hydatid mole","hydatidiform mole complete","mole partial hydatidiform"
+"d007012","hypopharyngeal neoplasms","hypopharyngeal cancer"
+"d007029","hypothalamic neoplasms","hypothalamus tumor","hypothalamic tumor","hypothalamic neoplasm","hypothalamic cancer","neoplasm malignant hypothalamic","hypothalamic pituitary neoplasm","hypothalamo neurohypophysial region neoplasm","hypothalamic teratoma","hypothalamic chiasmatic neoplasm","benign hypothalamic neoplasm"
+"d007078","ileal neoplasms","cancer of the ileum","cancer ileal","cancer of ileum","ileum cancer"
+"d015192","infratentorial neoplasms","neoplasm posterior fossa","infratentorial neoplasm","infratentorial tumor","infratentorial cancer","neoplasm malignant infratentorial","neoplasm benign infratentorial"
+"d007414","intestinal neoplasms","intestines neoplasm","cancer of intestines","cancer of the intestines","intestines cancer","intestinal cancer"
+"d064090","intraocular lymphoma",
+"d015811","iris neoplasms",
+"d007570","jaw cysts",
+"d007573","jaw neoplasms","cancer of jaw","cancer of the jaw","jaw cancer"
+"d007580","jejunal neoplasms","cancer of the jejunum","cancer jejunal","cancer of jejunum","jejunum cancer"
+"d055623","keratosis actinic","actinic keratoses"
+"d007680","kidney neoplasms","neoplasm renal","cancer of kidney","renal cancer","cancer of the kidney","kidney cancer"
+"d018285","klatskin tumor","hilar cholangiocarcinoma","perihilar cholangiocarcinoma"
+"d007725","krukenberg tumor","krukenberg carcinoma"
+"d007822","laryngeal neoplasms","larynx neoplasm","cancer of larynx","laryngeal cancer","larynx cancer","cancer of the larynx"
+"d018230","leiomyoma epithelioid","leiomyoblastoma"
+"d007942","leukemia experimental","leukemia model animal"
+"d016582","leukemia feline",
+"d007939","leukemia l1210","leukemia l 1210"
+"d007940","leukemia l5178","lymphoma l5178"
+"d007945","leukemia lymphoid","lymphocytic leukemia"
+"d007951","leukemia myeloid","leukemia granulocytic","leukemia myelogenous","myelocytic leukemia","chronic monocytic leukemia"
+"d007941","leukemia p388","p388d1 leukemia"
+"d015463","leukemia prolymphocytic",
+"d017254","leukemic infiltration",
+"d017733","leukoplakia hairy","oral hairy leukoplakia"
+"d007972","leukoplakia oral","leukokeratosis oral","leukokeratoses oral","keratosis oral","keratoses oral"
+"d020363","limbic encephalitis","encephalitides paraneoplastic limbic","limbic encephalitis paraneoplastic"
+"d008039","linitis plastica",
+"d008048","lip neoplasms","cancer of lip","cancer of the lip","lip cancer"
+"d018208","liposarcoma myxoid","round cell liposarcoma"
+"d008113","liver neoplasms","hepatic neoplasm","cancer of liver","hepatocellular cancer","hepatic cancer","liver cancer","cancer of the liver"
+"d008175","lung neoplasms","neoplasm pulmonary","lung cancer","pulmonary cancer","cancer of the lung","cancer of lung"
+"d018191","lymphangioma cystic","hygroma cystic","hygroma colli cystic","hygroma"
+"d008207","lymphatic metastasis","lymphatic metastases"
+"d008224","lymphoma follicular","follicular lymphoma giant","nodular lymphoma","brill symmers disease","lymphoma follicular grade 1","follicular mixed cell lymphoma","lymphoma follicular mixed lymphocytic histiocytic","lymphoma follicular small and large cleaved cell","lymphoma nodular mixed lymphocytic histiocytic","lymphoma nodular mixed small and large cell","lymphoma follicular mixed small and large lymphoid","lymphoma follicular grade 3","histiocytic lymphoma nodular","large cell lymphoma follicular","lymphoma large lymphoid nodular","nodular large follicular center cell lymphoma","small follicular center cell lymphoma","lymphoma small lymphoid follicular","lymphoma lymphocytic nodular poorly differentiated","small cleaved cell lymphoma follicular","follicular lymphoma grade 2"
+"d008230","lymphomatoid granulomatosis","granulomatoses lymphomatoid"
+"d017731","lymphomatoid papulosis","lymphomatoid papuloses"
+"d008339","mandibular neoplasms",
+"d054705","mastocytoma skin","solitary mastocytoma of skin"
+"d034701","mastocytosis cutaneous","cutaneous mastocytoses","skin mastocytosis","mastocytoses skin","mastocytosis bullous","bullous mastocytoses","mastocytosis diffuse cutaneous","cutaneous mastocytoses diffuse"
+"d034721","mastocytosis systemic","mastocytoses systemic","systemic mast cell disease","aggressive systemic mastocytosis","systemic mastocytoses aggressive","indolent systemic mastocytoses","mastocytosis indolent systemic"
+"d008441","maxillary neoplasms",
+"d008476","mediastinal cyst","tracheal cyst","thymic cyst","pericardial cyst","thoracic cyst"
+"d008479","mediastinal neoplasms","mediastinum neoplasm","cancer of mediastinum","mediastinal cancer","mediastinum cancer","cancer of the mediastinum"
+"d008539","meigs syndrome",
+"d018328","melanoma amelanotic",
+"d008546","melanoma experimental","melanoma harding passey","melanoma b16","s91 melanoma cloudman"
+"d055756","meningeal carcinomatosis","carcinomatoses meningeal","carcinomatous meningitis","carcinomatous meningitides","leptomeningeal carcinomatosis","carcinomatoses leptomeningeal"
+"d008577","meningeal neoplasms","meningeal tumor","neoplasm malignant meningeal","meningeal cancer","neoplasm intracranial meningeal","leptomeningeal neoplasm","spinal meningeal neoplasm","neoplasm benign meningeal"
+"d008639","mesenteric cyst",
+"d018261","mesothelioma cystic",
+"d049328","mongolian spot","mongolian blue spot"
+"d009062","mouth neoplasms","neoplasm oral","cancer of mouth","oral cancer","cancer of the mouth","mouth cancer"
+"d018298","mucoepidermoid tumor",
+"d009101","multiple myeloma","myelomatosis","myelomatoses","kahler disease","myeloma multiple"
+"d019042","muscle neoplasms","cancer of muscle","muscle cancer","cancer of the muscle"
+"d009157","myasthenia gravis","myasthenia gravis ocular","myasthenia gravis generalized","muscle specific receptor tyrosine kinase myasthenia gravis","muscle specific tyrosine kinase antibody positive myasthenia gravis","musk mg","musk myasthenia gravis","anti musk myasthenia gravis"
+"d009182","mycosis fungoides",
+"d009188","myelitis transverse","transverse myelopathy syndrome","transverse myelitis acute","myelitides subacute transverse","subacute transverse myelitis","paraneoplastic myelitis","postinfectious myelitis","postvaccinal myelitis","myelitis demyelinative","necrotizing myelitis"
+"d000077274","nasopharyngeal carcinoma",
+"d009303","nasopharyngeal neoplasms","nasopharynx neoplasm","cancer of nasopharynx","nasopharyngeal cancer","nasopharynx cancer","cancer of the nasopharynx"
+"d009347","nelson syndrome",
+"d009361","neoplasm invasiveness","neoplasm invasion"
+"d009362","neoplasm metastasis","metastases neoplasm","metastasis","metastases"
+"d061206","neoplasm micrometastasis","micrometastase neoplasm","micrometastasis"
+"d018365","neoplasm residual","residual minimal disease","cancer residual","residual tumor","residual tumour"
+"d009366","neoplasm seeding",
+"d009374","neoplasms experimental",
+"d018225","neoplasms fibroepithelial",
+"d018301","neoplasms mesothelial",
+"d018302","neoplasms neuroepithelial","neoplasm neuroepithelial","spongioblastoma polar","gliomatosis cerebri","astroblastoma","ependymoastrocytoma"
+"d009385","neoplastic processes",
+"d018201","nephroma mesoblastic","congenital mesoblastic nephroma"
+"d017599","neuroectodermal tumors",
+"d018358","neuroendocrine tumors",
+"d018318","neurofibroma plexiform","tumor royale","pachydermatocele","elephantiasis neuromatosis","elephantiasis neuromatoses","neuroma plexiform"
+"d009456","neurofibromatosis 1","recklinghausen disease of nerve","von recklinghausen disease","neurofibromatosis peripheral nf 1","peripheral neurofibromatosis","neurofibromatoses peripheral","neurofibromatosis i","neurofibromatosis type i","neurofibromatosis type 1","neurofibromatoses type i","nf1 neurofibromatosis 1","neurofibromatosis peripheral type","molluscum fibrosum","recklinghausen disease nerve","neurofibromatosis peripheral nf1","watson syndrome","pulmonic stenosis with cafe au lait spots"
+"d016518","neurofibromatosis 2","neurofibromatosis central nf2","neurofibromatosis central nf 2","bilateral acoustic neurofibromatosis","neurofibromatoses bilateral acoustic","neurofibromatosis ii","neurofibromatosis central type","neurofibromatosis type 2","neurofibromatosis type ii","neurofibromatoses type ii","neurofibromatoses type 2","nf2 neurofibromatosis 2","central nf2 neurofibromatoses","central neurofibromatosis","central neurofibromatoses","neuroma acoustic bilateral","acoustic neurinoma bilateral","acoustic schwannoma bilateral","schwannoma bilateral acoustic","neuroma familial acoustic"
+"d009464","neuroma acoustic","schwannoma acoustic","neurinoma of the acoustic nerve","neurilemoma acoustic","schwannoma vestibular","acoustic tumor","neurilemmoma acoustic","neurinoma acoustic","cerebellopontine angle acoustic neuroma","neuroma acoustic unilateral","melanocytic vestibular schwannoma","tumor angle","angle tumor cerebellopontine"
+"d018329","nevus blue","blue nevi","cellular blue nevus","nevi cellular blue"
+"d055882","nevus halo","nevi halo","leukoderma acquisitum centrifugum of sutton"
+"d018330","nevus intradermal","nevi intradermal"
+"d009508","nevus pigmented","pigmented moles","nevus melanocytic","nevi melanocytic","nevi pigmented"
+"d009631","nonodontogenic cysts",
+"d009669","nose neoplasms","nasal neoplasm","cancer of nose","nose cancer","nasal cancer","cancer of the nose"
+"d009807","odontogenic cysts","keratocyst"
+"d009808","odontogenic tumors","tissue neoplasm dental"
+"d000074723","oncogene addiction","oncogenic addiction"
+"d009918","orbital neoplasms",
+"d009959","oropharyngeal neoplasms","neoplasm oropharynx","cancer of oropharnyx","oropharnyx cancer","oropharyngeal cancer","oropharynx cancer","cancer of the oropharynx"
+"d010017","osteoma osteoid",
+"d018217","osteosarcoma juxtacortical",
+"d010039","otorhinolaryngologic neoplasms","neoplasm ootorhinolaryngeal","neoplasm otorhinolaryngological","otorhinolaryngeal cancer"
+"d010048","ovarian cysts","corpus luteum cyst"
+"d010051","ovarian neoplasms","neoplasm ovary","ovary cancer","ovarian cancer","cancer of ovary","cancer of the ovary"
+"d056267","pagetoid reticulosis","pagetoid reticuloses","woringer kolopp disease","ketron goodman disease"
+"d010157","palatal neoplasms",
+"d010178","pancoast syndrome","pancoast tumor"
+"d010181","pancreatic cyst",
+"d010190","pancreatic neoplasms","neoplasm pancreas","cancer of pancreas","pancreas cancer","pancreatic cancer","cancer of the pancreas"
+"d010192","pancreatic pseudocyst",
+"d018300","papilloma intraductal",
+"d018308","papilloma inverted",
+"d020364","paraneoplastic polyneuropathy","paraneoplastic polyneuropathies","paraneoplastic neuropathy","neuropathies paraneoplastic","paraneoplastic peripheral neuropathy","peripheral neuropathies paraneoplastic"
+"d010257","paraneoplastic syndromes",
+"d010282","parathyroid neoplasms","parathyroid adenoma","parathyroid carcinoma","cancer of parathyroid","cancer of the parathyroid","parathyroid cancer"
+"d010307","parotid neoplasms","cancer of parotid","parotid cancer","cancer of the parotid"
+"d010310","parovarian cyst","paratubal cyst","hydatid of morgagni","morgagni hydatid","hydatid cyst of morgagni","morgagni hydatid cyst"
+"d010386","pelvic neoplasms","neoplasm pelvis","cancer of pelvis","pelvic cancer","cancer of the pelvis","pelvis cancer"
+"d010412","penile neoplasms","neoplasm penile","cancer of penis","cancer of the penis","penis cancer","penile cancer"
+"d010509","periodontal cyst","dental root cyst","cyst dentoalveolar","cyst lateral","root cyst dental"
+"d010534","peritoneal neoplasms","peritoneal surface malignancy","peritoneal surface malignancies","peritoneal carcinomatosis","peritoneal carcinomatoses"
+"d010610","pharyngeal neoplasms","neoplasm pharynx","cancer of pharynx","pharynx cancer","cancer of the pharynx","pharnyx cancer","pharyngeal cancer"
+"d003557","phyllodes tumor","cystosarcoma phyllodes","cystosarcoma phylloides","malignant cystosarcoma phyllodes"
+"d010864","pilonidal sinus","pilonidal cyst"
+"d010911","pituitary neoplasms","pituitary tumor","pituitary adenoma","pituitary carcinoma","cancer of the pituitary","pituitary cancer","cancer of pituitary"
+"d000069293","plasmablastic lymphoma","plasmablasts diffuse large b cell lymphoma","plasmablastic diffuse large b cell lymphoma"
+"d010997","pleural neoplasms",
+"d011087","polycythemia vera","primary polycythemia","polycythemia rubra vera","polycythemia ruba vera","disease osler vaquez","erythremia"
+"d011151","popliteal cyst","baker cyst"
+"d011230","precancerous conditions","condition preneoplastic"
+"d011471","prostatic neoplasms","neoplasm prostatic","prostate cancer","cancer of the prostate","prostatic cancer","cancer of prostate"
+"d016715","proteus syndrome","elephant man disease","proteus like syndrome"
+"d011553","pseudomyxoma peritonei","gelatinous ascites","syndrome of pseudomyxoma peritonei","pseudomyxoma peritonei syndrome"
+"d018202","pulmonary blastoma",
+"d011842","radicular cyst","periapical cyst","periodontal cyst apical"
+"d012004","rectal neoplasms","neoplasm rectum","rectal tumor","cancer of rectum","rectal cancer","rectum cancer","cancer of the rectum"
+"d019572","retinal neoplasms","retinal tumor","retinal cancer","cancer of the retina"
+"d012186","retroperitoneal neoplasms",
+"d018335","rhabdoid tumor",
+"d018232","rhabdomyosarcoma alveolar","rhabdomyosarcoma 2"
+"d018233","rhabdomyosarcoma embryonal",
+"d012510","sarcoma 180","sarcoma 180 crocker"
+"d012511","sarcoma 37",
+"d001357","sarcoma avian","rous sarcoma"
+"d012512","sarcoma ewing","ewing tumor"
+"d012513","sarcoma experimental","sarcoma jensen","sarcoma engelbreth holm swarm","ehs tumor"
+"d012514","sarcoma kaposi","multiple idiopathic pigmented hemangiosarcoma"
+"d023981","sarcoma myeloid","myeloid cell tumor extramedullary","chloroma","sarcoma granulocytic"
+"d013584","sarcoma synovial","synovioma"
+"d012517","sarcoma yoshida","reticulum cell like sarcoma yoshida"
+"d012751","sezary syndrome","sezary lymphoma","erythroderma sezary"
+"d012811","sigmoid neoplasms","neoplasm sigmoid colon","sigmoid cancer","sigmoidal cancer","colon cancer sigmoid","cancer of sigmoid","cancer of the sigmoid"
+"d012878","skin neoplasms","cancer of skin","cancer of the skin","skin cancer"
+"d012888","skull neoplasms",
+"d013125","spinal neoplasms",
+"d013160","splenic neoplasms","neoplasm spleen","cancer of spleen","splenic cancer","cancer of the spleen","spleen cancer"
+"d013274","stomach neoplasms","gastric neoplasm","cancer of stomach","gastric cancer","stomach cancer","cancer of the stomach","gastric cancer familial diffuse"
+"d013330","struma ovarii",
+"d015173","supratentorial neoplasms","neoplasm supratentorial","cancer supratentorial","supratentorial neoplasm malignant","neoplasm primary supratentorial","supratentorial neoplasm primary","supratentorial neoplasm benign"
+"d013581","synovial cyst",
+"d052958","tarlov cysts","cyst perineural","cyst sacral perineural"
+"d013736","testicular neoplasms","neoplasm testis","tumor of rete testis","rete testis tumor","cancer of testis","testis cancer","cancer of the testes","cancer of the testis","testicular cancer"
+"d013899","thoracic neoplasms",
+"d013953","thymus neoplasms","thymus tumor","thymic tumor","neoplasm thymic","cancer of thymus","thymic cancer","thymus cancer","cancer of the thymus"
+"d013955","thyroglossal cyst","thyroglossal duct cyst","thyrolingual cyst"
+"d013964","thyroid neoplasms","thyroid carcinoma","cancer of thyroid","thyroid cancer","cancer of the thyroid","thyroid adenoma"
+"d016606","thyroid nodule",
+"d014062","tongue neoplasms","cancer of tongue","cancer of the tongue","tongue cancer"
+"d014067","tonsillar neoplasms","neoplasm tonsillar","cancer of tonsil","cancer of the tonsil","tonsil cancer","tonsillar cancer"
+"d014134","tracheal neoplasms",
+"d014328","trophoblastic neoplasms","neoplasm trophoblastic","neoplasm trophoblast","trophoblastic tumor","trophoblastic cancer","trophoblast cancer"
+"d014402","tuberous sclerosis","bourneville phakomatosis","bourneville syndrome","bourneville pringle disease","cerebral sclerosis","cerebral scleroses","epiloia","phacomatosis bourneville","sclerosis tuberosa","tuberose sclerosis","tuberous sclerosis complex","bourneville disease","adenoma sebaceum"
+"d014496","urachal cyst","umbilical cyst"
+"d014516","ureteral neoplasms","ureter neoplasm","cancer of ureter","ureter cancer","ureteral cancer","cancer of the ureter"
+"d014523","urethral neoplasms","neoplasm urethra","cancer of urethra","urethra cancer","urethral cancer","cancer of the urethra"
+"d014565","urogenital neoplasms","genito urinary neoplasm","genitourinary neoplasm","genitourinary cancer","genito urinary cancer","urogenital cancer"
+"d014571","urologic neoplasms","urinary tract neoplasm","urologic neoplasm","cancer of urinary tract","urological cancer","cancer of the urinary tract","urinary tract cancer","urologic cancer"
+"d014582","urticaria pigmentosa","maculopapular cutaneous mastocytosis","cutaneous mastocytoses maculopapular"
+"d014594","uterine neoplasms","neoplasm uterine","cancer of uterus","cancer of the uterus","uterus cancer","uterine cancer"
+"d014604","uveal neoplasms",
+"d014625","vaginal neoplasms","neoplasm vagina","vaginal cancer","cancer of the vagina","cancer of vagina","vagina cancer"
+"d019043","vascular neoplasms",
+"d014846","vulvar neoplasms","neoplasm vulva","cancer of vulva","cancer of the vulva","vulva cancer","vulvar cancer"
+"d017624","wagr syndrome","wilms tumor aniridia genitourinary anomalies mr syndrome","wagr complex","wagr complices","wagr contiguous gene syndrome","wilms tumor aniridia genital anomalies retardation syndrome","wilms tumor aniridia gonadoblastoma mental retardation syndrome","wilms tumor aniridia genitourinary anomalies and mental retardation syndrome","chromosome 11p13 deletion syndrome","11p partial monosomy syndrome","wilms tumor aniridia genitourinary anomalies mental retardation syndrome"
+"d008258","waldenstrom macroglobulinemia","lymphoma lymphoplasmacytoid","macroglobulinemia","waldenstrom macroglobulinaemia","lymphoma lymphocytic plasmacytoid","primary macroglobulinemia","familial waldenstrom macroglobulinaemia"
+"d009396","wilms tumor","wilm tumor"
+"d014983","xeroderma pigmentosum","kaposi disease"
+"d058739","aberrant crypt foci",
+"d000182","acth syndrome ectopic",
+"d002282","adenocarcinoma bronchiolo alveolar","adenocarcinoma alveolar","carcinoma alveolar","carcinoma bronchiolo alveolar","alveolar cell carcinoma","carcinoma bronchiolar","carcinoma bronchioloalveolar"
+"d018262","adenocarcinoma clear cell",
+"d065311","adenocarcinoma in situ","preinvasive adenocarcinoma","intraepithelial adenocarcinoma"
+"d000077192","adenocarcinoma of lung","lung adenocarcinoma"
+"d002759","adenoma bile duct","cholangioma"
+"d007516","adenoma islet cell","islet cell tumor","island cell tumor","nesidioblastoma"
+"d018248","adenoma liver cell","hepatoma benign","adenoma hepatocellular"
+"d006607","adenoma sweat gland","syringadenoma"
+"d011125","adenomatous polyposis coli","familial multiple polyposi","polyposus familial multiple","familial multiple polyposes","myh associated polyposes","familial intestinal polyposes","adenomatous intestinal polyposes"
+"d000306","adrenal cortex neoplasms","adrenocortical cancer","cancer of adrenal cortex","cancer of the adrenal cortex","adrenal cortex cancer"
+"d000310","adrenal gland neoplasms","adrenal neoplasm","adrenal cancer","cancer of the adrenal gland","adrenal gland cancer"
+"d000314","adrenal rest tumor","adrenal cortical rest tumor"
+"d000694","anal gland neoplasms","neoplasm perianal gland","anal gland neoplasm"
+"d001650","bile duct neoplasms","bile duct cancer","cancer of the bile duct","cancer of bile duct"
+"d001661","biliary tract neoplasms","biliary tract cancer","cancer of the biliary tract","cancer of biliary tract"
+"d017824","bone cysts aneurysmal",
+"d019046","bone marrow neoplasms",
+"d020295","brain stem neoplasms","brainstem neoplasm","brainstem tumor","brain stem tumor","pontine tumor","neoplasm pontine","mesencephalic neoplasm","midbrain tumor","midbrain neoplasm","primary brainstem neoplasm","medullary neoplasm","medullary tumor"
+"d018567","breast neoplasms male","breast tumor male","male breast cancer","cancer male breast","male breast carcinoma","breast cancer male"
+"d062688","buschke lowenstein tumor","tumor buschke lwenstein","anogenital type verrucous carcinoma","giant condyloma acuminatum","giant condyloma of buschke and lowenstein","giant condyloma of buschke and lwenstein"
+"d002275","carcinoid heart disease",
+"d002279","carcinoma 256 walker","carcinosarcoma 256 walker"
+"d018267","carcinoma acinar cell","acinic cell adenocarcinoma","acinic cell tumor","acinar cell adenocarcinoma","acinar carcinoma","acinic cell carcinoma","serous acinar adenoma"
+"d003528","carcinoma adenoid cystic","carcinoma adenocystic","cylindroma"
+"d002280","carcinoma basal cell","rodent ulcer","epithelioma basal cell","carcinoma basal cell pigmented"
+"d002284","carcinoma brown pearce","epithelioma brown pearce"
+"d018270","carcinoma ductal breast","carcinoma invasive ductal breast","carcinoma infiltrating duct","carcinoma mammary ductal"
+"d002286","carcinoma ehrlich tumor","tumor ehrlich ascites"
+"d018286","carcinoma giant cell",
+"d002278","carcinoma in situ","carcinoma preinvasive","carcinoma intraepithelial","intraepithelial neoplasm"
+"d002285","carcinoma intraductal noninfiltrating","dcis","ductal carcinoma in situ","carcinoma noninfiltrating intraductal","ductal hyperplasia atypical"
+"d018273","carcinoma islet cell","islet cell tumor malignant"
+"d002287","carcinoma krebs 2",
+"d018287","carcinoma large cell",
+"d018827","carcinoma lewis lung",
+"d015266","carcinoma merkel cell","merkel cell tumor","cell cancer merkel"
+"d000077216","carcinoma ovarian epithelial","ovarian epithelial cancer","cancer epithelial ovarian","epithelial ovarian carcinoma"
+"d021441","carcinoma pancreatic ductal","duct cell carcinoma of the pancreas","ductal carcinoma of the pancreas","pancreatic duct cell carcinoma","duct cell carcinoma pancreas"
+"d018265","carcinoma papillary follicular",
+"d002292","carcinoma renal cell","adenocarcinoma renal cell","adenocarcinoma of kidney","renal cell cancer","adenocarcinoma renal","nephroid carcinoma","chromophobe renal cell carcinoma","sarcomatoid renal cell carcinoma","papillary renal cell carcinoma","chromophil renal cell carcinoma","clear cell renal cell carcinoma","grawitz tumor","clear cell renal carcinoma","carcinoma hypernephroid","hypernephroma","collecting duct carcinoma kidney","collecting duct carcinoma of the kidney","renal collecting duct carcinoma","collecting duct carcinoma"
+"d018280","carcinoma skin appendage",
+"d018288","carcinoma small cell","oat cell carcinoma"
+"d002294","carcinoma squamous cell","carcinoma squamous","carcinoma epidermoid","carcinoma planocellular"
+"d002295","carcinoma transitional cell",
+"d002345","carotid body tumor","paraganglioma carotid body"
+"d002471","cell transformation neoplastic","transformation tumorigenic"
+"d002472","cell transformation viral","viral cell transformation"
+"d002551","cerebral ventricle neoplasms","intraventricular neoplasm","ventricle tumor cerebral","brain ventricular tumor","neoplasm cerebral ventricle","neoplasm brain ventricular"
+"d018290","cervical intraepithelial neoplasia","neoplasm cervical intraepithelial","cervical intraepithelial neoplasia grade iii"
+"d000077207","chondrosarcoma clear cell",
+"d031954","choriocarcinoma non gestational",
+"d016545","choroid plexus neoplasms","choroid plexus neoplasm"
+"d003390","cranial nerve neoplasms","cranial nerve tumors malignant","benign cranial neuroma","tumors cranial nerve benign"
+"d030321","denys drash syndrome","pseudohermaphroditism nephron disorder and wilms tumor","nephropathy wilms tumor and genital anomalies","drash syndrome","wilms tumor and pseudohermaphroditism"
+"d004067","digestive system neoplasms","cancer of digestive system","digestive system cancer","cancer of the digestive system"
+"d004416","dysplastic nevus syndrome","b k mole syndrome","familial atypical multiple mole melanoma","dysplastic nevi","dysplastic nevus"
+"d004701","endocrine gland neoplasms","carcinoma of endocrine gland","endocrine gland carcinoma","endocrine cancer","endocrine gland cancer","cancer of endocrine gland","cancer of the endocrine gland"
+"d018240","endodermal sinus tumor","yolk sac tumor"
+"d036821","endometrial stromal tumors","sarcoma endometrial stromal low grade","endolymphatic stromal myosis","stromal myoses endolymphatic"
+"d016583","enzootic bovine leukosis","leukoses enzootic bovine","bovine leukosis","leukoses bovine","bovine lymphoma","bovine lymphosarcoma","leukemia bovine"
+"d005097","exostoses multiple hereditary","aclases diaphyseal","aclasis diaphyseal","exostoses familial","multiple exostoses hereditary","multiple exostoses","cartilaginous exostoses multiple","exostoses multiple type i","exostosis familial","exostosis hereditary multiple","exostosis multiple","multiple cartilaginous exostosis","familial exostoses","multiple osteochondroma","multiple osteochondromatosis","bessel hagen disease"
+"d005185","fallopian tube neoplasms","fallopian tube cancer","cancer of the fallopian tube"
+"d046152","gastrointestinal stromal tumors","gastrointestinal stromal neoplasm","gastrointestinal stromal sarcoma"
+"d005833","genital neoplasms female","neoplasm female genital"
+"d005834","genital neoplasms male",
+"d031901","gestational trophoblastic disease","neoplasia gestational trophoblastic","neoplasm gestational trophoblastic"
+"d005870","giant cell tumors",
+"d005925","glomus jugulare tumor",
+"d043604","glomus tympanicum tumor",
+"d016586","granular cell tumor","cell myoblastoma granular"
+"d006106","granulosa cell tumor","granulosa cell cancer"
+"d006223","hamartoma syndrome multiple","cowden disease","cowden syndrome","lhermitte duclos disease","dysplastic gangliocytoma of cerebellum","cerebellum dysplastic gangliocytoma","dysplastic gangliocytoma of the cerebellum","pten hamartoma tumor syndrome","bannayan riley ruvalcaba syndrome","macrocephaly multiple lipomas and hemangiomata","macrocephaly pseudopapilledema and multiple hemangiomas","ruvalcaba myhre syndrome","myhre riley smith syndrome","riley smith syndrome","ruvalcaba myhre smith syndrome","bannayan zonana syndrome","macrocephaly pseudopapilledema and multiple hemangiomata"
+"d015620","histiocytic disorders malignant",
+"d018219","histiocytoma benign fibrous","fibrous histiocytoma","dermatofibroma","histiocytoma cutaneous","hemangioma sclerosing","angioma sclerosing"
+"d051677","histiocytoma malignant fibrous","fibrohistiocytic tumor malignant","tumor malignant fibrohistiocytic","pleomorphic malignant fibrous histiocytoma"
+"d018327","hutchinsons melanotic freckle","melanotic freckle","lentigo malignant","lentigo maligna"
+"d002820","hydatidiform mole invasive","mole invasive","chorioadenoma"
+"d058922","inflammatory breast neoplasms","inflammatory breast cancer ibc","inflammatory breast carcinoma","breast cancer inflammatory"
+"d059885","kasabach merritt syndrome","kasabach merritt phenomenon","hemangioma thrombocytopenia syndrome"
+"d054752","langerhans cell sarcoma",
+"d015448","leukemia b cell","lymphocytic leukemia b cell","b lymphocytic leukemia"
+"d015471","leukemia basophilic acute",
+"d015456","leukemia biphenotypic acute","b  and t cell acute lymphoblastic leukemia","b  and t cell leukemia acute","leukemia lymphocytic acute mixed cell","leukemia mixed b and t cell","leukemia mixed b  and t cell","leukemia mixed cell","lymphocytic leukemia acute b and t cell","lymphocytic leukemia acute b  and t cell","acute leukemia hybrid","leukemia hybrid acute","acute leukemia mixed lineage","b and t cell acute lymphoblastic leukemia","b and t cell leukemia acute"
+"d015472","leukemia eosinophilic acute",
+"d004915","leukemia erythroblastic acute","erythroleukemia","erythremic myelosis","erythremic myeloses","acute erythroblastic leukemia","disease di guglielmo"
+"d007943","leukemia hairy cell","leukemic reticuloendotheliosis","leukemic reticuloendothelioses"
+"d007946","leukemia mast cell",
+"d007947","leukemia megakaryoblastic acute","megakaryocytic leukemia","leukemia megakaryocytic acute","acute megakaryoblastic leukemia","acute megakaryocytic leukemia"
+"d007948","leukemia monocytic acute","leukemia myeloid acute m5","acute monoblastic leukemia","acute monocytic leukemia","schilling type myeloid leukemia"
+"d015470","leukemia myeloid acute","anll","leukemia acute myelogenous","leukemia myelocytic acute","leukemia nonlymphoblastic acute","leukemia nonlymphocytic acute","acute myeloblastic leukemia","acute myelocytic leukemia","acute nonlymphoblastic leukemia","acute nonlymphocytic leukemia","leukemia myeloid acute m1","acute myeloid leukemia without maturation","leukemia myeloid acute m2","acute myeloid leukemia with maturation"
+"d015479","leukemia myelomonocytic acute","leukemia naegeli type myeloid","acute myelomonocytic leukemia","myeloid leukemia acute m4"
+"d015477","leukemia myelomonocytic chronic",
+"d054429","leukemia myelomonocytic juvenile","juvenile chronic myelogenous leukemia"
+"d007952","leukemia plasma cell","plasmacytic leukemia"
+"d015473","leukemia promyelocytic acute","leukemia myeloid acute m3","m3 anll","progranulocytic leukemia","aml m3"
+"d007953","leukemia radiation induced",
+"d015458","leukemia t cell","leukemia t cell lymphocytic","leukemia t lymphocytic"
+"d007984","leydig cell tumor","interstitial cell tumor"
+"d016864","li fraumeni syndrome",
+"d008114","liver neoplasms experimental","morris hepatoma","novikoff hepatoma","hepatoma experimental"
+"d018190","lymphatic vessel tumors",
+"d016483","lymphoma aids related","lymphoma hiv related","lymphoma aids associated"
+"d016393","lymphoma b cell",
+"d020522","lymphoma mantle cell","lymphocytic lymphoma diffuse poorly differentiated","mantle zone lymphoma","lymphoma lymphocytic diffuse intermediate differentiated","centrocytic small cell lymphoma","lymphoma lymphocytic intermediate"
+"d008228","lymphoma non hodgkin","lymphoma atypical diffuse small lymphoid","diffuse small cleaved cell lymphoma","lymphoma nonhodgkin","diffuse lymphoma","sarcoma lymphatic","lymphosarcoma","lymphoma low grade","lymphoma mixed cell","lymphoma mixed","lymphoma mixed lymphocytic histiocytic","lymphoma non hodgkin familial","lymphoma small noncleaved cell","undifferentiated lymphoma diffuse","lymphoma small non cleaved cell","small non cleaved cell lymphoma","intermediate grade lymphoma","lymphoma undifferentiated","lymphoma pleomorphic","sarcoma reticulum cell","reticulosarcoma","lymphoma high grade","mixed small and large cell lymphoma diffuse","lymphoma diffuse mixed lymphocytic histiocytic","lymphoma small and large cleaved cell diffuse","diffuse mixed cell lymphoma"
+"d054685","lymphoma primary effusion",
+"d016399","lymphoma t cell",
+"d055847","lynch syndrome ii","lynch cancer family syndrome 2","lynch cancer family syndrome ii","colon cancer familial nonpolyposis type 2","colorectal cancer hereditary nonpolyposis type 2"
+"d008303","malignant carcinoid syndrome",
+"d015674","mammary neoplasms animal","neoplasm mammary","carcinoma animal mammary"
+"d008325","mammary neoplasms experimental",
+"d012515","mast cell sarcoma","mastocytoma malignant"
+"d008444","maxillary sinus neoplasms","cancer of maxillary sinus","maxillary sinus cancer"
+"d018198","mixed tumor malignant",
+"d018199","mixed tumor mesodermal",
+"d018200","mixed tumor mullerian",
+"d055653","muir torre syndrome",
+"d009377","multiple endocrine neoplasia","neoplasms multiple endocrine","neoplasia multiple endocrine","adenomatosis familial endocrine","familial endocrine adenomatoses","adenomatoses multiple endocrine","endocrine adenomatosis multiple","multiple endocrine neoplasia syndromes","multiple endocrine adenopathy","multiple endocrine adenopathies"
+"d055613","multiple pulmonary nodules",
+"d009364","neoplasm recurrence local","locoregional neoplasm recurrence","neoplasm recurrence locoregional"
+"d009365","neoplasm regression spontaneous","neoplasm remission spontaneous"
+"d018205","neoplasms adipose tissue",
+"d018295","neoplasms basal cell","cancer basal cell"
+"d018213","neoplasms bone tissue","neoplasm bone tissue"
+"d009371","neoplasms by site",
+"d009372","neoplasms connective tissue",
+"d018218","neoplasms fibrous tissue",
+"d018309","neoplasms gonadal tissue",
+"d009376","neoplasms hormone dependent",
+"d009378","neoplasms multiple primary","primary neoplasm multiple"
+"d009379","neoplasms muscle tissue","myoblastoma","myofibroblastoma"
+"d009380","neoplasms nerve tissue","neoplasm nerve tissue"
+"d054219","neoplasms plasma cell",
+"d017169","neoplasms post traumatic","malignancies post traumatic","malignancy post traumatic","post traumatic cancer"
+"d009381","neoplasms radiation induced","radiation induced cancer"
+"d016609","neoplasms second primary","second malignancy","malignancies second","second neoplasm","metachronous neoplasm","neoplasm therapy associated","neoplasm treatment associated","neoplasm treatment related","neoplasm therapy related","therapy associated cancer","therapy related cancer","treatment related cancer","treatment associated cancer","cancer second primary","second cancer"
+"d018307","neoplasms squamous cell","cancer squamous cell"
+"d009382","neoplasms unknown primary","primary neoplasm unknown","primary tumor unknown","unknown primary neoplasm metastasis"
+"d009383","neoplasms vascular tissue","blood vessel tumor"
+"d009360","neoplastic cells circulating","cell circulating tumor","tumor cell circulating","cell neoplasm circulating","tumor cell embolic","tumor embolism"
+"d009386","neoplastic syndromes hereditary","hereditary cancer syndrome"
+"d018317","nerve sheath neoplasms","nerve sheath tumors","tumors of the nerve sheath","peripheral nerve sheath tumors","perineurioma"
+"d009423","nervous system neoplasms","nervous system tumor"
+"d017600","neuroectodermal tumor melanotic","anlage tumor retinal","melanoameloblastoma","progonoma melanotic"
+"d018242","neuroectodermal tumors primitive","tumor primitive neuroepithelial","pnet","neuroepithelial neoplasm primitive","medulloepithelioma","cerebral primitive neuroectodermal tumor","ependymoblastoma","spongioblastoma"
+"d018326","nevi and melanomas",
+"d009507","nevus of ota","ota nevus"
+"d018331","nevus spindle cell","nevi spindle cell"
+"d018333","odontogenic cyst calcifying",
+"d051527","odontogenic tumor squamous",
+"d053578","opsoclonus myoclonus syndrome","dancing eyes dancing feet syndrome","opsoclonus myoclonus ataxia","paraneoplastic opsoclonus myoclonus ataxia","kinsbourne syndrome","myoclonic encephalopathy of infants","infants myoclonic encephalopathies","infants myoclonic encephalopathy","opsoclonus myoclonus"
+"d020339","optic nerve glioma","optic glioma","optic nerve malignant astrocytoma","optic nerve glioma childhood","optic nerve glioma adult"
+"d019574","optic nerve neoplasms","optic nerve sheath neoplasm","malignant optic nerve neoplasm","malignant optic nerve tumor","neoplasm benign optic nerve","tumor benign optic nerve"
+"d010145","paget disease extramammary","extra mammary paget disease"
+"d010144","pagets disease mammary","paget disease breast","mammary paget disease","pigmented mammary paget disease"
+"d054975","pallister hall syndrome","cerebroacrovisceral early lethality complex","hypothalamic hamartoblastoma syndrome","cave complices","complex cave","hypothalamic hamartoblastoma hypopituitarism imperforate anus and postaxial polydactyly"
+"d000077779","pancreatic intraductal neoplasms","intraductal tubulopapillary neoplasm pancreatic","pancreatic ipmn","intraductal papillary mucinous neoplasm pancreatic"
+"d020288","papilloma choroid plexus","papilloma of choroid plexus"
+"d010236","paraganglioma extra adrenal","paraganglioma nonchromaffin","chemodectoma","paraganglioma non chromaffin"
+"d010255","paranasal sinus neoplasms","paranasal sinus cancer","cancer of paranasal sinus"
+"d020362","paraneoplastic cerebellar degeneration","cerebellar syndrome paraneoplastic","paraneoplastic cerebellar degeneration anti yo associated"
+"d009384","paraneoplastic endocrine syndromes","ectopic hormone syndrome"
+"d059545","paraneoplastic syndromes ocular","disease ocular paraneoplastic","melanoma associated retinopathy","melanoma associated retinopathies","bilateral diffuse uveal melanocytic proliferation paraneoplastic","paraneoplastic melanocytic proliferation","cancer associated retinopathy","cancer associated retinopathies"
+"d010580","peutz jeghers syndrome","polyposes hamartomatous intestinal","peutz jegher syndrome","periorificial lentiginosis syndrome","lentiginosis perioral","lentiginoses perioral","polyps and spots syndrome"
+"d016066","pleural effusion malignant",
+"d011085","polycystic ovary syndrome","stein leventhal syndrome","sclerocystic ovarian degeneration","sclerocystic ovary syndrome","polycystic ovarian syndrome","polycystic ovary syndrome 1","sclerocystic ovaries","ovary sclerocystic"
+"d011252","pregnancy complications neoplastic",
+"d019048","prostatic intraepithelial neoplasia","prostatic intraepithelial neoplasm"
+"d011648","pulmonary adenomatosis ovine","pulmonary adenomatoses ovine","carcinoma ovine pulmonary","jaagsiekte"
+"d047868","pulmonary sclerosing hemangioma","lung sclerosing hemangioma","sclerosing hemangioma of the lung"
+"d012142","respiratory tract neoplasms",
+"d012468","salivary gland neoplasms","cancer of salivary gland","cancer of the salivary gland","salivary gland cancer"
+"d018227","sarcoma clear cell","melanoma malignant of soft parts","clear cell sarcoma of soft tissue","melanoma of soft parts"
+"d018203","sarcoma endometrial stromal",
+"d018228","sarcoma small cell",
+"d012626","sebaceous gland neoplasms",
+"d012707","sertoli cell tumor",
+"d019292","skull base neoplasms",
+"d000075122","smoldering multiple myeloma","smoldering myeloma","asymptomatic multiple myeloma"
+"d018235","smooth muscle tumor",
+"d012983","soft tissue neoplasms",
+"d054364","solitary fibrous tumors",
+"d013120","spinal cord neoplasms","neoplasm spinal cord"
+"d013341","sturge weber syndrome","parkes weber syndrome","sturge disease","sturge syndrome","sturge kalischer weber syndrome","sturge weber dimitri syndrome","sturge weber krabbe syndrome","angiomatosis oculoorbital thalamic syndrome","syndrome encephalofacial hemangiomatosis","angiomatosis meningo oculo facial","meningofacial angiomatosis cerebral calcification syndrome","neuroretinoangiomatosis","phakomatosis sturge weber"
+"d013362","sublingual gland neoplasms",
+"d013365","submandibular gland neoplasms",
+"d013544","sweat gland neoplasms",
+"d013586","synovitis pigmented villonodular","villonodular synovitides pigmented","diffuse tenosynovial giant cell tumor"
+"d000077273","thyroid cancer papillary","carcinoma papillary thyroid","papillary carcinoma of thyroid","familial nonmedullary thyroid cancer","nonmedullary thyroid carcinoma"
+"d065646","thyroid carcinoma anaplastic","anaplastic thyroid cancer"
+"d000069584","unilateral breast neoplasms","unilateral breast cancer","breast neoplasm right sided","right sided breast cancer","left sided breast neoplasm","breast cancer left sided"
+"d001749","urinary bladder neoplasms","bladder neoplasm","bladder tumor","urinary bladder cancer","malignant tumor of urinary bladder","cancer of the bladder","bladder cancer","cancer of bladder"
+"d002578","uterine cervical dysplasia","dysplasia cervix"
+"d002583","uterine cervical neoplasms","neoplasm cervical","neoplasm cervix","cancer of the uterine cervix","cancer of the cervix","cervical cancer","uterine cervical cancer","cancer of cervix","cervix cancer"
+"d014685","venereal tumors veterinary","tumor transmissible venereal"
+"d015043","zollinger ellison syndrome",
+"d049913","acth secreting pituitary adenoma","corticotroph adenoma","pituitary corticotropin secreting adenoma","acth producing pituitary adenoma"
+"d001478","basal cell nevus syndrome","gorlin syndrome","gorlin goltz syndrome","nbccs","nevoid basal cell carcinoma syndrome","fifth phacomatosis","fifth phacomatoses","multiple basal cell nevi odontogenic keratocysts and skeletal anomalies"
+"d058249","birt hogg dube syndrome","hornstein knickenberg syndrome","hornstein birt hogg dub syndrome","fibrofolliculomas with trichodiscomas and acrochordons","birt hogg dub syndrome"
+"d000071960","breast carcinoma in situ","lobular carcinoma in situ","lcis lobular carcinoma in situ"
+"d018279","carcinoma signet ring cell",
+"d020863","central nervous system cysts","suprasellar cyst"
+"d016543","central nervous system neoplasms","cns neoplasm"
+"d003123","colorectal neoplasms hereditary nonpolyposis","familial nonpolyposis colon cancer","hereditary nonpolyposis colorectal cancer","lynch syndrome i","lynch cancer family syndrome i","lynch syndrome","hereditary nonpolyposis colon cancer"
+"d003138","common bile duct neoplasms",
+"d054740","dendritic cell sarcoma follicular",
+"d054739","dendritic cell sarcoma interdigitating","interdigitating cell sarcoma"
+"d000080443","diffuse intrinsic pontine glioma","brain tumor dipg","dipg diffuse intrinsic pontine glioma"
+"d000077277","esophageal squamous cell carcinoma",
+"d006258","head and neck neoplasms","head and neck cancer","cancer of the head and neck","neoplasm uadt","cancer of head","head cancer","cancer of the head","cancer of neck","neck cancer","cancer of the neck"
+"d000075363","immunoglobulin light chain amyloidosis","immunoglobulin light chain amyloidoses","amyloidosis primary","al amyloidosis","al amyloidoses","primary systemic amyloidosis","systemic amyloidoses primary","primary amyloidoses"
+"d007161","immunoproliferative small intestinal disease","ipsid","heavy chain disease iga type","lymphoma mediterranean","alpha chain disease"
+"d015624","lambert eaton myasthenic syndrome","eaton lambert syndrome","syndrome eaton lambert myasthenic","lambert eaton myopathic myasthenic syndrome","myasthenic myopathic syndrome of eaton lambert","myasthenic myopathic syndrome of lambert eaton"
+"d054066","leukemia large granular lymphocytic","aggressive nk cell leukemia","large granular lymphocyte leukemia","lgl leukemia","aggressive natural killer cell leukemia","leukemia t cell large granular lymphocytic","t lgl leukemia","t cell large granular lymphocyte leukemia","large granular lymphocytosis","lymphocytoses large granular","natural killer cell large granular lymphocytic leukemia","leukemia nk lgl","nk cell large granular lymphocytic leukemia"
+"d015465","leukemia myeloid accelerated phase","leukemia myelogenous aggressive phase","leukemia myeloid aggressive phase","myeloid leukemia chronic aggressive phase","myelogenous leukemia chronic aggressive phase","myeloid leukemia chronic accelerated phase"
+"d015466","leukemia myeloid chronic phase","granulocytic leukemia chronic stable phase","leukemia granulocytic chronic phase","leukemia myelogenous chronic phase","leukemia myeloid stable phase","myelogenous leukemia chronic chronic phase","myeloid leukemia chronic chronic phase"
+"d054403","leukemia prolymphocytic b cell",
+"d015461","leukemia prolymphocytic t cell","lymphocytic leukemia t cell chronic","t lymphocytic leukemia chronic","t cell leukemia chronic"
+"d017728","lymphoma large cell anaplastic","systemic anaplastic large cell lymphoma","lymphoma large cell ki 1","anaplastic large cell lymphoma","cd30 anaplastic large cell lymphoma","ki 1 lymphoma"
+"d016400","lymphoma large cell immunoblastic","sarcoma immunoblastic","immunoblastic lymphosarcoma diffuse","immunoblastoma"
+"d016410","lymphoma t cell cutaneous","cutaneous t cell lymphoma","slack skin granulomatous"
+"d016411","lymphoma t cell peripheral","lymphoma t cell peripheral"
+"d000069295","mammary analogue secretory carcinoma",
+"d009370","neoplasms by histologic type","neoplasm histological type"
+"d018193","neoplasms complex and mixed",
+"d009375","neoplasms glandular and epithelial","neoplasm epithelial","glandular neoplasm"
+"d018241","neuroectodermal tumors primitive peripheral","neuroectodermal neoplasm peripheral primitive","neuroectodermal tumor peripheral primitive","primitive neuroectodermal tumor extracranial","neuroectodermal tumor peripheral"
+"d054000","nevus sebaceous of jadassohn","linear sebaceous nevus syndrome","nevus sebaceus of jadassohn","jadassohn nevus sebaceus","jadassohn sebaceous nevus","phakomatosis jadassohn nevus","linear sebaceous nevus","linear verrucous epidermal nevus","nevus verrucous epidermal","nevus verrucous","inflammatory linear verrucose epidermal nevus","inflammatory linear verrucous epidermal naevus","organoid nevus phakomatosis","phakomatoses organoid nevus","syndrome schimmelpenning","schimmelpenning feuerstein mims syndrome","feuerstein mims syndrome"
+"d020361","paraneoplastic syndromes nervous system","encephalomyelitis paraneoplastic","paraneoplastic encephalomyelitides","paraneoplastic autonomic dysfunction"
+"d010524","peripheral nervous system neoplasms","neoplasm peripheral nerve","peripheral nerve neoplastic infiltration"
+"d054973","perivascular epithelioid cell neoplasms","pecoma","tumor clear cell sugar","tumor clear cell myomelanocytic","ccmmt"
+"d064129","prostatic neoplasms castration resistant","prostatic neoplasm androgen independent","prostatic neoplasm androgen insensitive","neoplasm androgen resistant prostatic","prostatic cancer castration resistant","androgen insensitive prostatic cancer","androgen resistant prostatic cancer","prostatic cancer hormone refractory","prostatic cancer androgen independent","castration resistant prostatic cancer"
+"d018234","sarcoma alveolar soft part",
+"d018310","sertoli leydig cell tumor","arrhenoblastoma","androblastoma"
+"d058288","sister mary josephs nodule",
+"d055752","small cell lung carcinoma","small cell lung cancer","oat cell lung cancer","small cell cancer of the lung","oat cell carcinoma of lung"
+"d054363","solitary fibrous tumor pleural","fibrous mesothelioma","submesothelial fibroma","localized mesothelioma","solitary fibrous mesothelioma","solitary fibrous tumor of the pleura","benign fibrous mesothelioma","fibrous mesothelioma localized"
+"d064726","triple negative breast neoplasms","triple negative breast neoplasm","er negative pr negative her2 negative breast cancer"
+"d018245","trophoblastic tumor placental site","trophoblastic tumor placental"
+"d000074009","tubular sweat gland adenomas","hidradenoma papilliferum","papillary hidradenoma anogenital","hidradenoma papillary","syringocystadenoma papilliferum","papillary syringocystadenoma"
+"d002289","carcinoma non small cell lung","nonsmall cell lung cancer","non small cell lung cancer"
+"d020787","central nervous system venous angioma","angioma cns venous","angioma cerebral venous","angioma intracranial venous"
+"d058405","desmoplastic small round cell tumor","desmoplastic small cell tumor"
+"d058527","enteropathy associated t cell lymphoma",
+"d018212","giant cell tumor of bone",
+"d049912","growth hormone secreting pituitary adenoma","pituitary growth hormone secreting adenoma","adenoma somatotroph","acromegaly due to pituitary adenoma","somatotrophinoma familial","isolated familial somatotropinoma"
+"d020786","hemangioma cavernous central nervous system","cavernous hemangioma cerebral","extracerebral cavernous hemangioma","hemangioma intracerebral cavernous","cavernous angioma central nervous system","cavernous hemangioma of brain","brain cavernous hemangioma","malformation cavernous angiomatous","cavernous malformation familial","cavernous malformation cerebral","angioma familial cavernous","capillary malformation cerebral","malformation cerebral capillary"
+"d015451","leukemia lymphocytic chronic b cell","lymphoma small lymphocytic","lymphoma small lymphocytic plasmacytoid","lymphoma small cell","cll lymphoplasmacytoid lymphoma","chronic lymphoblastic leukemia","lymphocytic lymphoma","lymphocytic lymphoma diffuse well differentiated","lymphocytic lymphoma well differentiated","b cell leukemia chronic","b cell malignancy low grade","b lymphocytic leukemia chronic","disrupted in b cell malignancy","leukemia b cell chronic","leukemia chronic lymphatic","leukemia chronic lymphocytic"
+"d015459","leukemia lymphoma adult t cell","htlv associated leukemia lymphoma","human t lymphotropic virus associated leukemia lymphoma","human t cell leukemia lymphoma","leukemia lymphoma t cell acute htlv i associated","leukemia adult t cell","t cell leukemia lymphoma adult","atll"
+"d018442","lymphoma b cell marginal zone","marginal zone b cell lymphoma","mucosa associated lymphoid tissue lymphoma","lymphoma mucosa associated lymphoid tissue","lymphoma malt"
+"d054391","lymphoma extranodal nk t cell","extranodal nk t cell lymphoma nasal and nasal type","extranodal nk t cell lymphoma nasal type","extranodal nk t cell lymphoma nasal"
+"d016403","lymphoma large b cell diffuse","lymphoma large lymphoid diffuse","lymphoma large cell diffuse","histiocytic lymphoma","diffuse histiocytic lymphoma"
+"d018761","multiple endocrine neoplasia type 1","multiple endocrine neoplasia type i","neoplasms multiple endocrine type i","multiple endocrine neoplasms type 1","wermer syndrome"
+"d018813","multiple endocrine neoplasia type 2a","mea ii","mea iia","men 2","men 2a","men ii","men iia","men 2a syndrome","men2a","multiple endocrine neoplasia type 2","multiple endocrine neoplasms type 2a","pheochromocytoma and amyloid producing medullary thyroid carcinoma","sipple syndrome","multiple endocrine neoplasia type iia","mea 2a"
+"d018814","multiple endocrine neoplasia type 2b","men2b","multiple endocrine neoplasms type 2b","neuromata mucosal with endocrine tumors","wagenmann froboese syndrome","multiple endocrine neoplasia type iib","mea 2b","mea iib","men 2b","men 3","men iib","men iii","mucosal neuroma syndrome"
+"d018294","neoplasms adnexal and skin appendage",
+"d018204","neoplasms connective and soft tissue",
+"d018297","neoplasms cystic mucinous and serous",
+"d018299","neoplasms ductal lobular and medullary",
+"d009373","neoplasms germ cell and embryonal","germ cell tumor","embryonal neoplasm","cancer embryonal","germ cell cancer"
+"d018332","nevus epithelioid and spindle cell","spitz nevus"
+"d054198","precursor cell lymphoblastic leukemia lymphoma","leukemia acute lymphoblastic","leukemia lymphoblastic","lymphoblastic lymphoma","acute lymphocytic leukemia","leukemia acute lymphoid","leukemia lymphoid acute","leukemia lymphocytic acute l1","leukemia l1 lymphocytic","lymphoblastic leukemia acute childhood","lymphoblastic leukemia acute l1","all childhood","leukemia lymphocytic acute l2","leukemia l2 lymphocytic","lymphoblastic leukemia acute adult","lymphoblastic leukemia acute l2","leukemia lymphoblastic acute philadelphia positive"
+"d018312","sex cord gonadal stromal tumors","gynandroblastoma"
+"d065309","atypical squamous cells of the cervix","asc us","squamous cell atypical"
+"d000070779","giant cell tumor of tendon sheath","tenosynovial giant cell tumor","fibrous histiocytoma of tendon sheath","localized giant cell tumor of the tendon sheath","localized nodular tenosynovitis","tenosynovitides localized nodular","localized pigmented villonodular synovitis","nodular tenosynovitis","nodular tenosynovitides"
+"d061325","hereditary breast and ovarian cancer syndrome","hboc syndrome"
+"d015464","leukemia myelogenous chronic bcr abl positive","leukemia chronic myelogenous","leukemia chronic myeloid","leukemia granulocytic chronic","leukemia myelogenous ph1 positive","leukemia myeloid ph1 positive","leukemia myeloid philadelphia positive","chronic myelocytic leukemia","chronic myelogenous leukemia","chronic myeloid leukemia","chronic granulocytic leukemia"
+"d054446","lymphoma primary cutaneous anaplastic large cell","primary cutaneous cd30 positive large t cell lymphoma"
+"d015452","precursor b cell lymphoblastic leukemia lymphoma","pre b all","precursor b cell lymphoblastic leukemia","precursor b cell lymphoblastic lymphoma","leukemia pre b cell"
+"d054218","precursor t cell lymphoblastic leukemia lymphoma","leukemia lymphoblastic acute t cell","leukemia lymphocytic acute t cell","t lymphocytic leukemia acute","precursor t cell lymphoblastic leukemia","precursor t cell lymphoblastic lymphoma","t all","acute t cell leukemia"
+"d065310","squamous intraepithelial lesions of the cervix",
+"d060426","anti n methyl d aspartate receptor encephalitis","anti n methyl d aspartate receptor encephalitides","anti nmda receptor encephalitis","receptor encephalitides anti nmda","anti nmdar encephalitis","anti nmdar encephalitides","non paraneoplastic anti n methyl d aspartate receptor encephalitis","non paraneoplastic anti nmdar encephalitis","anti nmdar encephalitides non paraneoplastic","non paraneoplastic anti nmda receptor encephalitis","paraneoplastic anti n methyl d aspartate receptor encephalitis","paraneoplastic anti nmdar encephalitis","anti nmdar encephalitides paraneoplastic","paraneoplastic anti nmda receptor encephalitis"
+"d054438","leukemia myeloid chronic atypical bcr abl negative","chronic myeloid leukemia atypical","leukemia myelogenous ph1 negative","leukemia myeloid ph1 negative","leukemia myeloid philadelphia negative","leukemia ph1 negative myeloid"
+"d000077195","squamous cell carcinoma of head and neck","squamous cell carcinoma of the head and neck","squamous cell carcinoma head and neck"

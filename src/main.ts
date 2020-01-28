@@ -6,13 +6,11 @@ import extractQualifiers from "./extract_qualifiers"
 // // generateMaps()
 
 import getBranchEntries from "./get_branch_entries"
-import getDiseases from "./get_diseases"
 import matchCSVToMeSH from "./match_csv_to_mesh"
 import mergeAndCompareTwoCSVFiles from "./utilities/merge_and_compare_two_csv_files"
 
 
 import getEntriesAtBranches from "./get_entries_at_branches"
-import getSignsAndSymptoms from "./get_signs_symptoms"
 import mergeFilteredNonFiltered from "./merge_filtered_not_filtered"
 
 const paths = [
@@ -28,7 +26,7 @@ const paths = [
 
 paths.forEach((filePath) => {
     const { input, output } = filePath
-    // matchCSVToMeSH(input, output)
+    matchCSVToMeSH(input, output)
 })
 
 const notFilteredHerbs = path.resolve(__dirname, "mesh_matched_results/not_filtered", "medicinal_herbs_matched.csv")
@@ -62,11 +60,34 @@ const filteredHerbs = path.resolve(__dirname, "mesh_matched_results/filtered", "
 
 // console.log(isPermutation(phrase1, phrase2))
 
+// const toExtract = [
+//     {
+//         branches: [ "C01", "C04", "C05", "C06", "C07", "C08", "C09", "C10", "C11", "C12", "C13", "C14", "C15", "C16", "C17", "C18", "C19", "C20", "C21", "C22", "C23", "C24", "C25", "C26" ],
+//         excludeBranches: [ "C23.888" ],
+//         outputFilePath: path.resolve(__dirname, "other", "diseases.csv"),
+//     },
+//     {
+//         branches: [ "C23.888" ],
+//         outputFilePath: path.resolve(__dirname, "other", "signs_symptoms.csv"),
+//     },
+//     {
+//         branches: [ "C04" ],
+//         outputFilePath: path.resolve(__dirname, "other", "neoplasm.csv"),
+//     },
+//     {
+//         branches: [ "E01", "E02", "E03", "E04", "E05", "E06", "E07" ],
+//         outputFilePath: path.resolve(__dirname, "other", "diagnostic_techniques.csv"),
+//     },
+//     {
+//         branches: [ "A01" ],
+//         outputFilePath: path.resolve(__dirname, "other", "body_parts.csv"),
+//     },
+// ]
 
-const outputFilePath = path.resolve(__dirname, "other", "diseases_new.csv")
-
-getEntriesAtBranches({
-    branches: [ "C01", "C04", "C05", "C06", "C07", "C08", "C09", "C10", "C11", "C12", "C13", "C14", "C15", "C16", "C17", "C18", "C19", "C20", "C21", "C22", "C23", "C24", "C25", "C26" ],
-    excludeBranches: [ "C23.888" ],
-    outputFilePath,
-})
+// toExtract.forEach(({ branches, excludeBranches, outputFilePath }) => {
+//     getEntriesAtBranches({
+//         branches,
+//         excludeBranches,
+//         outputFilePath,
+//     })
+// })
